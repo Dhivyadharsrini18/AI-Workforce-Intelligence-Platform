@@ -1,0 +1,501 @@
+certification_id,certification_name,provider,validity_months,primary_skill_id
+CERT0001,Certified Art therapist Professional,Google,36,SK0123
+CERT0002,Certified Surgeon Professional,Udemy,12,SK0265
+CERT0003,Certified Police officer Professional,Google,36,SK0004
+CERT0004,Certified Textile designer Professional,Google,12,SK0169
+CERT0005,Certified Radiation protection practitioner Professional,Google,24,SK0281
+CERT0006,Certified Rural practice surveyor Professional,Coursera,24,SK0290
+CERT0007,"Certified Editor, film/video Professional",Microsoft,36,SK0073
+CERT0008,Certified Technical sales engineer Professional,Udemy,999,SK0137
+CERT0009,Certified Early years teacher Professional,Udemy,12,SK0256
+CERT0010,"Certified Conservation officer, historic buildings Professional",Udemy,24,SK0141
+CERT0011,Certified Civil Service administrator Professional,Microsoft,36,SK0208
+CERT0012,Certified Naval architect Professional,Udemy,12,SK0260
+CERT0013,Certified Tourism officer Professional,Udemy,36,SK0263
+CERT0014,Certified Trading standards officer Professional,LinkedIn Learning,999,SK0271
+CERT0015,Certified IT technical support officer Professional,AWS,999,SK0038
+CERT0016,Certified Retail merchandiser Professional,LinkedIn Learning,12,SK0203
+CERT0017,Certified Music tutor Professional,Coursera,999,SK0224
+CERT0018,Certified Personal assistant Professional,Coursera,12,SK0052
+CERT0019,Certified Transport planner Professional,Google,12,SK0081
+CERT0020,Certified Fish farm manager Professional,Internal,999,SK0211
+CERT0021,Certified Graphic designer Professional,AWS,36,SK0007
+CERT0022,Certified Occupational therapist Professional,Microsoft,36,SK0045
+CERT0023,Certified Lobbyist Professional,LinkedIn Learning,12,SK0277
+CERT0024,Certified Hospital pharmacist Professional,Coursera,24,SK0259
+CERT0025,Certified Production manager Professional,Microsoft,12,SK0142
+CERT0026,Certified Contracting civil engineer Professional,Udemy,36,SK0258
+CERT0027,Certified Corporate investment banker Professional,Microsoft,12,SK0285
+CERT0028,Certified Passenger transport manager Professional,LinkedIn Learning,36,SK0037
+CERT0029,Certified Town planner Professional,AWS,999,SK0045
+CERT0030,Certified Science writer Professional,Internal,12,SK0120
+CERT0031,Certified Hydrographic surveyor Professional,Google,12,SK0046
+CERT0032,Certified Sports development officer Professional,LinkedIn Learning,999,SK0140
+CERT0033,Certified Interior and spatial designer Professional,Google,999,SK0053
+CERT0034,Certified Surgeon Professional,AWS,24,SK0288
+CERT0035,"Certified Engineer, water Professional",Coursera,999,SK0274
+CERT0036,"Certified Engineer, control and instrumentation Professional",Google,24,SK0269
+CERT0037,"Certified Engineer, manufacturing systems Professional",Coursera,999,SK0279
+CERT0038,Certified Horticultural therapist Professional,Microsoft,36,SK0062
+CERT0039,Certified Location manager Professional,LinkedIn Learning,12,SK0054
+CERT0040,Certified Consulting civil engineer Professional,Coursera,999,SK0069
+CERT0041,"Certified Editor, magazine features Professional",Udemy,36,SK0242
+CERT0042,Certified Retail manager Professional,Udemy,999,SK0270
+CERT0043,Certified Special effects artist Professional,Internal,12,SK0252
+CERT0044,Certified IT trainer Professional,Microsoft,999,SK0284
+CERT0045,Certified Commercial art gallery manager Professional,Coursera,999,SK0071
+CERT0046,Certified Management consultant Professional,Internal,12,SK0100
+CERT0047,"Certified Surveyor, planning and development Professional",Udemy,999,SK0061
+CERT0048,Certified Quantity surveyor Professional,Internal,12,SK0103
+CERT0049,Certified Television floor manager Professional,Internal,24,SK0119
+CERT0050,"Certified Teacher, English as a foreign language Professional",Coursera,999,SK0017
+CERT0051,Certified Pensions consultant Professional,Coursera,36,SK0191
+CERT0052,"Certified Social research officer, government Professional",Coursera,999,SK0212
+CERT0053,Certified Higher education lecturer Professional,Microsoft,12,SK0078
+CERT0054,"Certified Pharmacist, hospital Professional",Google,12,SK0046
+CERT0055,"Certified Administrator, Civil Service Professional",Internal,36,SK0093
+CERT0056,"Certified Scientist, research (medical) Professional",Internal,36,SK0013
+CERT0057,Certified Clinical biochemist Professional,Microsoft,12,SK0228
+CERT0058,Certified Agricultural consultant Professional,Udemy,24,SK0017
+CERT0059,Certified Museum/gallery curator Professional,LinkedIn Learning,24,SK0062
+CERT0060,Certified Dance movement psychotherapist Professional,Google,12,SK0043
+CERT0061,Certified Astronomer Professional,Udemy,24,SK0068
+CERT0062,Certified Banker Professional,Microsoft,36,SK0212
+CERT0063,"Certified Engineer, communications Professional",Google,24,SK0203
+CERT0064,"Certified Geologist, engineering Professional",Google,36,SK0214
+CERT0065,"Certified Designer, multimedia Professional",Internal,999,SK0109
+CERT0066,Certified Historic buildings inspector/conservation officer Professional,Internal,36,SK0284
+CERT0067,Certified Fitness centre manager Professional,Coursera,999,SK0094
+CERT0068,Certified Dancer Professional,Coursera,36,SK0225
+CERT0069,Certified Biomedical engineer Professional,Internal,36,SK0225
+CERT0070,Certified Hotel manager Professional,Internal,24,SK0239
+CERT0071,"Certified Engineer, electronics Professional",AWS,36,SK0118
+CERT0072,Certified Special educational needs teacher Professional,Google,12,SK0091
+CERT0073,Certified Amenity horticulturist Professional,Coursera,999,SK0289
+CERT0074,Certified Mechanical engineer Professional,Coursera,999,SK0281
+CERT0075,Certified Production manager Professional,Udemy,36,SK0019
+CERT0076,"Certified Civil engineer, consulting Professional",Internal,12,SK0175
+CERT0077,Certified Warden/ranger Professional,Google,36,SK0106
+CERT0078,"Certified Surveyor, planning and development Professional",Internal,36,SK0289
+CERT0079,Certified Environmental manager Professional,Microsoft,24,SK0248
+CERT0080,"Certified Surveyor, mining Professional",Udemy,36,SK0142
+CERT0081,Certified Neurosurgeon Professional,LinkedIn Learning,36,SK0298
+CERT0082,Certified Field seismologist Professional,LinkedIn Learning,24,SK0193
+CERT0083,Certified Sales promotion account executive Professional,LinkedIn Learning,24,SK0291
+CERT0084,Certified Holiday representative Professional,Google,12,SK0208
+CERT0085,Certified Art gallery manager Professional,AWS,24,SK0248
+CERT0086,Certified Museum/gallery curator Professional,Coursera,999,SK0142
+CERT0087,Certified Naval architect Professional,Google,999,SK0222
+CERT0088,Certified Pension scheme manager Professional,LinkedIn Learning,12,SK0225
+CERT0089,Certified Intelligence analyst Professional,Microsoft,36,SK0184
+CERT0090,Certified Sub Professional,Google,12,SK0188
+CERT0091,Certified Audiological scientist Professional,Google,24,SK0113
+CERT0092,"Certified Administrator, Civil Service Professional",Coursera,36,SK0181
+CERT0093,Certified Food technologist Professional,Coursera,12,SK0199
+CERT0094,"Certified Engineer, electrical Professional",LinkedIn Learning,12,SK0070
+CERT0095,Certified Web designer Professional,Coursera,999,SK0086
+CERT0096,Certified Probation officer Professional,Udemy,12,SK0039
+CERT0097,Certified Equality and diversity officer Professional,Udemy,36,SK0131
+CERT0098,Certified Mental health nurse Professional,LinkedIn Learning,12,SK0010
+CERT0099,Certified Theatre stage manager Professional,Google,12,SK0003
+CERT0100,Certified Sports coach Professional,Microsoft,24,SK0150
+CERT0101,Certified Toxicologist Professional,Coursera,12,SK0067
+CERT0102,"Certified Engineer, chemical Professional",Internal,36,SK0193
+CERT0103,"Certified Engineer, biomedical Professional",Google,999,SK0097
+CERT0104,Certified Hospital pharmacist Professional,LinkedIn Learning,999,SK0019
+CERT0105,"Certified Production assistant, radio Professional",AWS,999,SK0098
+CERT0106,"Certified Editor, film/video Professional",Coursera,999,SK0057
+CERT0107,Certified Cabin crew Professional,LinkedIn Learning,24,SK0107
+CERT0108,"Certified Embryologist, clinical Professional",LinkedIn Learning,36,SK0088
+CERT0109,Certified Early years teacher Professional,Microsoft,24,SK0141
+CERT0110,"Certified Scientist, audiological Professional",Internal,999,SK0144
+CERT0111,Certified Communications engineer Professional,Coursera,24,SK0052
+CERT0112,Certified Multimedia programmer Professional,LinkedIn Learning,12,SK0212
+CERT0113,Certified Architect Professional,LinkedIn Learning,36,SK0041
+CERT0114,Certified Phytotherapist Professional,Google,12,SK0091
+CERT0115,Certified Health promotion specialist Professional,Coursera,24,SK0039
+CERT0116,"Certified Surveyor, commercial/residential Professional",LinkedIn Learning,12,SK0013
+CERT0117,"Certified Geneticist, molecular Professional",LinkedIn Learning,24,SK0096
+CERT0118,"Certified Conservator, furniture Professional",LinkedIn Learning,24,SK0109
+CERT0119,"Certified Designer, multimedia Professional",Udemy,36,SK0104
+CERT0120,Certified Television/film/video producer Professional,Udemy,36,SK0231
+CERT0121,Certified Freight forwarder Professional,Internal,36,SK0043
+CERT0122,"Certified Accountant, chartered public finance Professional",Microsoft,999,SK0209
+CERT0123,Certified Lawyer Professional,Google,36,SK0088
+CERT0124,"Certified Psychologist, prison and probation services Professional",Google,12,SK0093
+CERT0125,"Certified Designer, fashion/clothing Professional",Coursera,36,SK0174
+CERT0126,Certified Archaeologist Professional,Microsoft,36,SK0126
+CERT0127,"Certified Designer, exhibition/display Professional",Microsoft,36,SK0109
+CERT0128,Certified IT trainer Professional,Google,24,SK0047
+CERT0129,"Certified Therapist, speech and language Professional",Udemy,24,SK0214
+CERT0130,Certified Arts development officer Professional,Internal,36,SK0092
+CERT0131,Certified Warden/ranger Professional,Microsoft,24,SK0181
+CERT0132,Certified Illustrator Professional,Google,24,SK0041
+CERT0133,Certified Recycling officer Professional,Microsoft,999,SK0259
+CERT0134,"Certified Teacher, primary school Professional",LinkedIn Learning,12,SK0121
+CERT0135,Certified Statistician Professional,Coursera,24,SK0077
+CERT0136,Certified Materials engineer Professional,Internal,12,SK0095
+CERT0137,"Certified Buyer, industrial Professional",Google,24,SK0269
+CERT0138,"Certified Investment banker, corporate Professional",Coursera,36,SK0018
+CERT0139,Certified Secondary school teacher Professional,Udemy,24,SK0293
+CERT0140,Certified English as a second language teacher Professional,Microsoft,24,SK0171
+CERT0141,Certified Educational psychologist Professional,Microsoft,12,SK0162
+CERT0142,"Certified Scientist, research (life sciences) Professional",AWS,36,SK0052
+CERT0143,Certified Broadcast journalist Professional,Coursera,999,SK0036
+CERT0144,Certified Risk analyst Professional,Udemy,12,SK0187
+CERT0145,"Certified Designer, jewellery Professional",Google,36,SK0248
+CERT0146,Certified Pathologist Professional,AWS,36,SK0052
+CERT0147,Certified Speech and language therapist Professional,AWS,12,SK0019
+CERT0148,Certified Software engineer Professional,LinkedIn Learning,24,SK0092
+CERT0149,Certified Operations geologist Professional,AWS,36,SK0139
+CERT0150,Certified Chief Executive Officer Professional,AWS,999,SK0220
+CERT0151,Certified Magazine journalist Professional,LinkedIn Learning,24,SK0099
+CERT0152,Certified Environmental consultant Professional,Microsoft,12,SK0236
+CERT0153,"Certified Engineer, production Professional",Microsoft,12,SK0207
+CERT0154,Certified Learning disability nurse Professional,Internal,12,SK0144
+CERT0155,Certified Learning disability nurse Professional,AWS,12,SK0199
+CERT0156,Certified Media planner Professional,Coursera,999,SK0287
+CERT0157,Certified Hospital doctor Professional,Microsoft,999,SK0264
+CERT0158,Certified Engineering geologist Professional,Udemy,36,SK0217
+CERT0159,Certified Water engineer Professional,Google,999,SK0189
+CERT0160,Certified Set designer Professional,Coursera,12,SK0044
+CERT0161,Certified Public relations officer Professional,Internal,999,SK0291
+CERT0162,"Certified Surveyor, mining Professional",AWS,24,SK0189
+CERT0163,Certified Acupuncturist Professional,LinkedIn Learning,24,SK0194
+CERT0164,Certified Colour technologist Professional,Internal,36,SK0270
+CERT0165,Certified Logistics and distribution manager Professional,Coursera,12,SK0260
+CERT0166,Certified Product designer Professional,LinkedIn Learning,999,SK0239
+CERT0167,Certified Financial adviser Professional,Udemy,36,SK0112
+CERT0168,Certified Visual merchandiser Professional,LinkedIn Learning,36,SK0069
+CERT0169,Certified Wellsite geologist Professional,LinkedIn Learning,999,SK0049
+CERT0170,Certified Financial planner Professional,Udemy,36,SK0151
+CERT0171,Certified Archaeologist Professional,Microsoft,12,SK0239
+CERT0172,Certified IT sales professional Professional,Microsoft,999,SK0115
+CERT0173,Certified Museum/gallery curator Professional,LinkedIn Learning,24,SK0075
+CERT0174,Certified Clothing/textile technologist Professional,Google,24,SK0098
+CERT0175,Certified Nature conservation officer Professional,LinkedIn Learning,999,SK0111
+CERT0176,Certified Furniture conservator/restorer Professional,Internal,36,SK0285
+CERT0177,"Certified Sound technician, broadcasting/film/video Professional",Google,36,SK0256
+CERT0178,Certified Heritage manager Professional,Microsoft,24,SK0117
+CERT0179,Certified Agricultural consultant Professional,Udemy,24,SK0176
+CERT0180,"Certified Scientist, forensic Professional",AWS,12,SK0228
+CERT0181,Certified Minerals surveyor Professional,AWS,36,SK0106
+CERT0182,"Certified Scientist, audiological Professional",LinkedIn Learning,12,SK0239
+CERT0183,Certified Rural practice surveyor Professional,LinkedIn Learning,24,SK0100
+CERT0184,Certified Product designer Professional,AWS,24,SK0176
+CERT0185,"Certified Radiographer, therapeutic Professional",Internal,24,SK0249
+CERT0186,Certified Armed forces logistics/support/administrative officer Professional,Internal,24,SK0076
+CERT0187,Certified Housing manager/officer Professional,Internal,12,SK0003
+CERT0188,"Certified Engineer, automotive Professional",Coursera,24,SK0081
+CERT0189,Certified IT sales professional Professional,Udemy,999,SK0288
+CERT0190,"Certified Scientist, audiological Professional",Coursera,36,SK0008
+CERT0191,Certified Charity fundraiser Professional,LinkedIn Learning,24,SK0087
+CERT0192,Certified Chief Operating Officer Professional,Internal,36,SK0286
+CERT0193,Certified Diplomatic Services operational officer Professional,Internal,24,SK0074
+CERT0194,Certified Soil scientist Professional,AWS,12,SK0123
+CERT0195,"Certified Social research officer, government Professional",AWS,36,SK0294
+CERT0196,Certified Actor Professional,Google,12,SK0143
+CERT0197,Certified Brewing technologist Professional,Internal,24,SK0158
+CERT0198,"Certified Engineer, materials Professional",Microsoft,999,SK0109
+CERT0199,"Certified Engineer, production Professional",AWS,999,SK0195
+CERT0200,Certified Photographer Professional,Udemy,999,SK0036
+CERT0201,Certified Civil Service administrator Professional,Coursera,999,SK0090
+CERT0202,"Certified Engineer, land Professional",Udemy,999,SK0296
+CERT0203,Certified Soil scientist Professional,AWS,12,SK0201
+CERT0204,"Certified Presenter, broadcasting Professional",Internal,999,SK0046
+CERT0205,Certified Building surveyor Professional,LinkedIn Learning,24,SK0107
+CERT0206,"Certified Designer, exhibition/display Professional",Microsoft,12,SK0170
+CERT0207,Certified Aeronautical engineer Professional,AWS,12,SK0146
+CERT0208,Certified Psychiatric nurse Professional,Udemy,999,SK0178
+CERT0209,Certified Learning disability nurse Professional,LinkedIn Learning,36,SK0061
+CERT0210,Certified Applications developer Professional,AWS,24,SK0003
+CERT0211,Certified Chartered loss adjuster Professional,Internal,12,SK0082
+CERT0212,"Certified Buyer, retail Professional",Google,24,SK0263
+CERT0213,Certified Audiological scientist Professional,Internal,36,SK0287
+CERT0214,"Certified Editor, magazine features Professional",Internal,12,SK0095
+CERT0215,Certified Food technologist Professional,Internal,24,SK0064
+CERT0216,"Certified Surveyor, insurance Professional",AWS,999,SK0246
+CERT0217,Certified Building services engineer Professional,Google,12,SK0077
+CERT0218,"Certified Teacher, special educational needs Professional",Microsoft,12,SK0259
+CERT0219,Certified Estate agent Professional,Microsoft,12,SK0093
+CERT0220,Certified Further education lecturer Professional,Udemy,12,SK0291
+CERT0221,Certified Orthoptist Professional,AWS,999,SK0271
+CERT0222,Certified Network engineer Professional,Google,36,SK0021
+CERT0223,"Certified Production designer, theatre/television/film Professional",Google,36,SK0062
+CERT0224,Certified Ophthalmologist Professional,Internal,24,SK0260
+CERT0225,Certified Police officer Professional,Microsoft,999,SK0237
+CERT0226,Certified Interpreter Professional,AWS,999,SK0141
+CERT0227,Certified Adult guidance worker Professional,LinkedIn Learning,24,SK0167
+CERT0228,Certified Neurosurgeon Professional,Microsoft,999,SK0067
+CERT0229,Certified Commissioning editor Professional,Microsoft,999,SK0058
+CERT0230,Certified Social researcher Professional,Google,12,SK0212
+CERT0231,Certified Accounting technician Professional,Udemy,12,SK0130
+CERT0232,Certified Water engineer Professional,Microsoft,12,SK0025
+CERT0233,Certified Biomedical scientist Professional,LinkedIn Learning,999,SK0011
+CERT0234,Certified Textile designer Professional,Internal,999,SK0257
+CERT0235,Certified Armed forces technical officer Professional,Coursera,36,SK0081
+CERT0236,"Certified Buyer, industrial Professional",Udemy,12,SK0286
+CERT0237,Certified Materials engineer Professional,LinkedIn Learning,24,SK0019
+CERT0238,Certified Retail buyer Professional,Udemy,999,SK0110
+CERT0239,Certified Claims inspector/assessor Professional,AWS,12,SK0034
+CERT0240,Certified Horticultural consultant Professional,Internal,36,SK0288
+CERT0241,Certified Illustrator Professional,Microsoft,12,SK0255
+CERT0242,Certified Training and development officer Professional,AWS,36,SK0126
+CERT0243,Certified Chartered legal executive (England and Wales) Professional,Microsoft,36,SK0209
+CERT0244,Certified Herbalist Professional,Google,999,SK0134
+CERT0245,Certified Primary school teacher Professional,LinkedIn Learning,36,SK0086
+CERT0246,Certified Museum/gallery curator Professional,Internal,36,SK0075
+CERT0247,Certified Nutritional therapist Professional,Coursera,24,SK0135
+CERT0248,Certified Airline pilot Professional,Coursera,36,SK0173
+CERT0249,Certified Public relations account executive Professional,Microsoft,24,SK0213
+CERT0250,"Certified Designer, graphic Professional",AWS,24,SK0019
+CERT0251,"Certified Social research officer, government Professional",Google,12,SK0119
+CERT0252,Certified English as a second language teacher Professional,Internal,12,SK0285
+CERT0253,Certified Copy Professional,Internal,999,SK0227
+CERT0254,"Certified Nurse, adult Professional",LinkedIn Learning,999,SK0212
+CERT0255,Certified Sports administrator Professional,AWS,999,SK0189
+CERT0256,Certified Hotel manager Professional,Coursera,36,SK0151
+CERT0257,Certified Cytogeneticist Professional,LinkedIn Learning,12,SK0223
+CERT0258,Certified Hydrogeologist Professional,Udemy,36,SK0128
+CERT0259,Certified Midwife Professional,Internal,12,SK0248
+CERT0260,"Certified Administrator, arts Professional",Coursera,36,SK0051
+CERT0261,Certified Surgeon Professional,LinkedIn Learning,999,SK0191
+CERT0262,"Certified Surveyor, building control Professional",Microsoft,12,SK0237
+CERT0263,Certified Counsellor Professional,Udemy,12,SK0022
+CERT0264,Certified Community pharmacist Professional,LinkedIn Learning,24,SK0110
+CERT0265,Certified Architectural technologist Professional,Microsoft,12,SK0033
+CERT0266,"Certified Accountant, chartered public finance Professional",Coursera,12,SK0127
+CERT0267,"Certified Teacher, primary school Professional",Coursera,36,SK0044
+CERT0268,"Certified Therapist, occupational Professional",Udemy,999,SK0007
+CERT0269,"Certified Nurse, mental health Professional",Microsoft,24,SK0128
+CERT0270,Certified Soil scientist Professional,Internal,36,SK0091
+CERT0271,Certified Sports development officer Professional,Google,12,SK0130
+CERT0272,Certified Chartered certified accountant Professional,Google,36,SK0017
+CERT0273,Certified Industrial/product designer Professional,Coursera,999,SK0186
+CERT0274,"Certified Engineer, materials Professional",AWS,24,SK0110
+CERT0275,Certified Local government officer Professional,Internal,36,SK0286
+CERT0276,"Certified Engineer, mining Professional",Internal,12,SK0163
+CERT0277,Certified Passenger transport manager Professional,Google,36,SK0075
+CERT0278,Certified Science writer Professional,LinkedIn Learning,12,SK0199
+CERT0279,Certified Curator Professional,LinkedIn Learning,24,SK0287
+CERT0280,"Certified Designer, multimedia Professional",Coursera,24,SK0182
+CERT0281,Certified Educational psychologist Professional,Internal,36,SK0097
+CERT0282,Certified Environmental consultant Professional,LinkedIn Learning,24,SK0051
+CERT0283,Certified Warehouse manager Professional,Microsoft,999,SK0034
+CERT0284,Certified Forensic psychologist Professional,Microsoft,36,SK0021
+CERT0285,"Certified Engineer, biomedical Professional",Microsoft,12,SK0184
+CERT0286,Certified Colour technologist Professional,Microsoft,36,SK0293
+CERT0287,"Certified Education officer, community Professional",Internal,12,SK0064
+CERT0288,Certified Tax adviser Professional,Microsoft,24,SK0124
+CERT0289,Certified Audiological scientist Professional,Internal,12,SK0101
+CERT0290,Certified Stage manager Professional,Google,12,SK0119
+CERT0291,"Certified Psychologist, clinical Professional",Coursera,12,SK0078
+CERT0292,Certified Stage manager Professional,Coursera,12,SK0181
+CERT0293,"Certified Buyer, industrial Professional",Microsoft,999,SK0199
+CERT0294,Certified Horticultural therapist Professional,Microsoft,12,SK0190
+CERT0295,Certified Broadcast engineer Professional,Microsoft,36,SK0103
+CERT0296,Certified Fitness centre manager Professional,Coursera,999,SK0275
+CERT0297,Certified Chief Technology Officer Professional,LinkedIn Learning,12,SK0130
+CERT0298,"Certified Engineer, civil (consulting) Professional",Coursera,12,SK0241
+CERT0299,Certified Telecommunications researcher Professional,Microsoft,12,SK0134
+CERT0300,"Certified Radiographer, therapeutic Professional",LinkedIn Learning,999,SK0157
+CERT0301,Certified Lawyer Professional,LinkedIn Learning,12,SK0158
+CERT0302,Certified Marketing executive Professional,Udemy,12,SK0190
+CERT0303,"Certified Conservation officer, historic buildings Professional",Google,12,SK0100
+CERT0304,Certified Farm manager Professional,Internal,24,SK0052
+CERT0305,Certified Chiropodist Professional,Google,36,SK0049
+CERT0306,Certified Higher education careers adviser Professional,Microsoft,12,SK0100
+CERT0307,Certified Water quality scientist Professional,Internal,36,SK0251
+CERT0308,Certified Building control surveyor Professional,Udemy,24,SK0054
+CERT0309,"Certified Engineer, biomedical Professional",Internal,24,SK0137
+CERT0310,"Certified Investment banker, corporate Professional",Microsoft,12,SK0162
+CERT0311,"Certified Radiographer, diagnostic Professional",Udemy,36,SK0292
+CERT0312,"Certified Production designer, theatre/television/film Professional",Internal,999,SK0081
+CERT0313,Certified Land/geomatics surveyor Professional,Coursera,12,SK0220
+CERT0314,Certified Warehouse manager Professional,LinkedIn Learning,999,SK0085
+CERT0315,Certified Information officer Professional,Google,24,SK0083
+CERT0316,Certified Television/film/video producer Professional,Udemy,24,SK0067
+CERT0317,"Certified Designer, ceramics/pottery Professional",Coursera,36,SK0234
+CERT0318,Certified Systems developer Professional,Microsoft,999,SK0198
+CERT0319,Certified Tax adviser Professional,LinkedIn Learning,999,SK0259
+CERT0320,Certified Medical sales representative Professional,Google,12,SK0177
+CERT0321,Certified Interpreter Professional,Udemy,36,SK0298
+CERT0322,Certified Phytotherapist Professional,LinkedIn Learning,36,SK0280
+CERT0323,Certified Dispensing optician Professional,AWS,999,SK0300
+CERT0324,"Certified Accountant, chartered management Professional",AWS,24,SK0129
+CERT0325,Certified Intelligence analyst Professional,Udemy,36,SK0180
+CERT0326,Certified Fine artist Professional,Udemy,24,SK0292
+CERT0327,Certified Environmental consultant Professional,Internal,12,SK0207
+CERT0328,Certified Press photographer Professional,LinkedIn Learning,36,SK0294
+CERT0329,Certified Health and safety inspector Professional,AWS,36,SK0175
+CERT0330,Certified Media buyer Professional,Google,12,SK0029
+CERT0331,Certified Contractor Professional,AWS,36,SK0179
+CERT0332,Certified Learning disability nurse Professional,LinkedIn Learning,999,SK0041
+CERT0333,Certified Quantity surveyor Professional,AWS,999,SK0192
+CERT0334,"Certified Psychologist, counselling Professional",Google,12,SK0237
+CERT0335,Certified Product designer Professional,Coursera,24,SK0225
+CERT0336,Certified Mechanical engineer Professional,AWS,24,SK0114
+CERT0337,Certified Industrial/product designer Professional,AWS,36,SK0278
+CERT0338,"Certified Radiographer, therapeutic Professional",Microsoft,24,SK0017
+CERT0339,Certified Structural engineer Professional,Coursera,24,SK0086
+CERT0340,Certified Clinical embryologist Professional,Internal,12,SK0181
+CERT0341,Certified Economist Professional,Udemy,24,SK0145
+CERT0342,Certified Training and development officer Professional,Google,24,SK0225
+CERT0343,Certified Ceramics designer Professional,AWS,24,SK0054
+CERT0344,Certified Health visitor Professional,Google,999,SK0068
+CERT0345,Certified Counselling psychologist Professional,Internal,999,SK0107
+CERT0346,Certified Solicitor Professional,Internal,12,SK0077
+CERT0347,"Certified Engineer, chemical Professional",Coursera,36,SK0027
+CERT0348,Certified General practice doctor Professional,Google,12,SK0155
+CERT0349,Certified Camera operator Professional,Udemy,36,SK0072
+CERT0350,Certified Call centre manager Professional,Microsoft,36,SK0180
+CERT0351,Certified Advertising account executive Professional,Internal,24,SK0047
+CERT0352,"Certified Runner, broadcasting/film/video Professional",Microsoft,24,SK0242
+CERT0353,Certified Airline pilot Professional,Udemy,12,SK0277
+CERT0354,Certified Television camera operator Professional,Udemy,12,SK0105
+CERT0355,Certified Technical sales engineer Professional,Coursera,12,SK0095
+CERT0356,Certified Ophthalmologist Professional,Google,999,SK0219
+CERT0357,Certified Therapeutic radiographer Professional,LinkedIn Learning,999,SK0170
+CERT0358,"Certified Engineer, petroleum Professional",Google,999,SK0283
+CERT0359,Certified Animator Professional,AWS,999,SK0128
+CERT0360,Certified Structural engineer Professional,Coursera,999,SK0200
+CERT0361,Certified Gaffer Professional,Google,24,SK0035
+CERT0362,Certified Speech and language therapist Professional,Microsoft,36,SK0144
+CERT0363,"Certified Solicitor, Scotland Professional",Google,999,SK0292
+CERT0364,Certified Public house manager Professional,Coursera,12,SK0066
+CERT0365,Certified Database administrator Professional,Udemy,36,SK0219
+CERT0366,Certified Medical secretary Professional,Internal,999,SK0056
+CERT0367,"Certified Nurse, children's Professional",AWS,999,SK0145
+CERT0368,Certified Environmental health practitioner Professional,AWS,24,SK0213
+CERT0369,Certified Theme park manager Professional,LinkedIn Learning,24,SK0094
+CERT0370,Certified Horticultural therapist Professional,Udemy,24,SK0106
+CERT0371,Certified Contractor Professional,AWS,999,SK0084
+CERT0372,"Certified Psychologist, forensic Professional",AWS,24,SK0136
+CERT0373,Certified Retail banker Professional,Internal,999,SK0146
+CERT0374,"Certified Sales professional, IT Professional",Microsoft,36,SK0249
+CERT0375,Certified Chemical engineer Professional,Microsoft,36,SK0018
+CERT0376,Certified Occupational psychologist Professional,Microsoft,999,SK0125
+CERT0377,Certified Medical physicist Professional,Coursera,12,SK0002
+CERT0378,Certified Retail buyer Professional,Microsoft,999,SK0200
+CERT0379,Certified Administrator Professional,Microsoft,36,SK0138
+CERT0380,Certified Field trials officer Professional,Coursera,36,SK0203
+CERT0381,Certified Visual merchandiser Professional,Internal,999,SK0282
+CERT0382,Certified Diagnostic radiographer Professional,Udemy,999,SK0030
+CERT0383,"Certified Scientist, audiological Professional",AWS,999,SK0056
+CERT0384,Certified Counselling psychologist Professional,LinkedIn Learning,36,SK0119
+CERT0385,Certified Product designer Professional,AWS,12,SK0132
+CERT0386,"Certified Designer, jewellery Professional",Microsoft,999,SK0231
+CERT0387,Certified Editorial assistant Professional,Microsoft,36,SK0152
+CERT0388,Certified Systems developer Professional,Google,999,SK0021
+CERT0389,Certified Systems developer Professional,AWS,36,SK0068
+CERT0390,Certified Dancer Professional,AWS,999,SK0126
+CERT0391,Certified Radio broadcast assistant Professional,Google,36,SK0043
+CERT0392,Certified Mechanical engineer Professional,Microsoft,999,SK0182
+CERT0393,Certified Architect Professional,Coursera,24,SK0100
+CERT0394,Certified English as a foreign language teacher Professional,Coursera,999,SK0240
+CERT0395,Certified Ranger/warden Professional,Coursera,36,SK0200
+CERT0396,Certified Exhibition designer Professional,LinkedIn Learning,999,SK0116
+CERT0397,Certified Biomedical scientist Professional,Udemy,12,SK0115
+CERT0398,"Certified Geneticist, molecular Professional",Microsoft,999,SK0142
+CERT0399,Certified Merchant navy officer Professional,Internal,999,SK0119
+CERT0400,Certified Facilities manager Professional,AWS,999,SK0093
+CERT0401,Certified Archivist Professional,AWS,12,SK0009
+CERT0402,"Certified Engineer, maintenance Professional",Microsoft,12,SK0073
+CERT0403,"Certified Scientist, marine Professional",Microsoft,12,SK0026
+CERT0404,Certified Media planner Professional,Microsoft,24,SK0239
+CERT0405,Certified Network engineer Professional,AWS,12,SK0145
+CERT0406,"Certified Psychotherapist, child Professional",Google,24,SK0068
+CERT0407,"Certified Programme researcher, broadcasting/film/video Professional",Microsoft,999,SK0188
+CERT0408,Certified Armed forces training and education officer Professional,AWS,24,SK0131
+CERT0409,Certified Archaeologist Professional,Udemy,999,SK0221
+CERT0410,Certified Jewellery designer Professional,Internal,24,SK0281
+CERT0411,"Certified Civil engineer, contracting Professional",Coursera,12,SK0277
+CERT0412,"Certified Scientist, research (life sciences) Professional",Google,12,SK0140
+CERT0413,Certified Graphic designer Professional,Internal,24,SK0054
+CERT0414,Certified General practice doctor Professional,Microsoft,24,SK0001
+CERT0415,Certified Technical sales engineer Professional,Internal,12,SK0128
+CERT0416,Certified Sport and exercise psychologist Professional,Microsoft,999,SK0001
+CERT0417,"Certified Teacher, early years/pre Professional",Internal,999,SK0173
+CERT0418,Certified Ecologist Professional,LinkedIn Learning,999,SK0266
+CERT0419,Certified Mudlogger Professional,Internal,999,SK0296
+CERT0420,Certified Multimedia specialist Professional,Coursera,36,SK0256
+CERT0421,Certified Medical secretary Professional,Coursera,999,SK0174
+CERT0422,Certified Theatre manager Professional,Google,36,SK0045
+CERT0423,Certified Careers adviser Professional,Internal,36,SK0141
+CERT0424,"Certified Scientist, forensic Professional",AWS,12,SK0027
+CERT0425,Certified Food technologist Professional,AWS,12,SK0233
+CERT0426,Certified Mudlogger Professional,AWS,24,SK0209
+CERT0427,Certified Environmental health practitioner Professional,Internal,999,SK0050
+CERT0428,"Certified Scientist, clinical (histocompatibility and immunogenetics) Professional",AWS,999,SK0061
+CERT0429,"Certified Optician, dispensing Professional",Udemy,12,SK0243
+CERT0430,Certified Manufacturing engineer Professional,Internal,12,SK0269
+CERT0431,Certified Location manager Professional,Coursera,12,SK0140
+CERT0432,"Certified Radiographer, therapeutic Professional",Google,24,SK0157
+CERT0433,Certified Race relations officer Professional,AWS,999,SK0085
+CERT0434,Certified Trade mark attorney Professional,LinkedIn Learning,24,SK0084
+CERT0435,Certified Accounting technician Professional,AWS,36,SK0276
+CERT0436,Certified Retail banker Professional,Coursera,36,SK0031
+CERT0437,Certified Corporate treasurer Professional,Udemy,999,SK0008
+CERT0438,Certified Printmaker Professional,Internal,12,SK0280
+CERT0439,Certified Diagnostic radiographer Professional,AWS,12,SK0203
+CERT0440,Certified Event organiser Professional,LinkedIn Learning,24,SK0033
+CERT0441,Certified Camera operator Professional,Google,36,SK0298
+CERT0442,"Certified Scientist, audiological Professional",Coursera,36,SK0143
+CERT0443,Certified Health visitor Professional,Google,999,SK0037
+CERT0444,"Certified Engineer, mining Professional",Google,36,SK0147
+CERT0445,Certified Dealer Professional,LinkedIn Learning,12,SK0228
+CERT0446,"Certified Embryologist, clinical Professional",Microsoft,12,SK0034
+CERT0447,"Certified Designer, industrial/product Professional",Coursera,12,SK0237
+CERT0448,Certified Medical illustrator Professional,Microsoft,999,SK0212
+CERT0449,Certified Town planner Professional,LinkedIn Learning,24,SK0140
+CERT0450,Certified Commissioning editor Professional,Internal,36,SK0190
+CERT0451,Certified Event organiser Professional,Internal,999,SK0096
+CERT0452,Certified Patent examiner Professional,Internal,24,SK0194
+CERT0453,Certified Lawyer Professional,Google,999,SK0296
+CERT0454,Certified Clothing/textile technologist Professional,Microsoft,36,SK0152
+CERT0455,Certified Race relations officer Professional,Google,12,SK0223
+CERT0456,Certified Quality manager Professional,Internal,24,SK0196
+CERT0457,Certified Quality manager Professional,Google,24,SK0088
+CERT0458,"Certified Engineer, materials Professional",Udemy,999,SK0299
+CERT0459,Certified Therapeutic radiographer Professional,Coursera,999,SK0017
+CERT0460,"Certified Designer, television/film set Professional",Coursera,12,SK0211
+CERT0461,Certified Paediatric nurse Professional,Google,999,SK0232
+CERT0462,Certified Advertising copywriter Professional,LinkedIn Learning,36,SK0183
+CERT0463,Certified Financial planner Professional,AWS,36,SK0162
+CERT0464,Certified Armed forces logistics/support/administrative officer Professional,Microsoft,36,SK0070
+CERT0465,Certified Conference centre manager Professional,Coursera,36,SK0060
+CERT0466,"Certified Teacher, secondary school Professional",Google,12,SK0179
+CERT0467,"Certified Therapist, drama Professional",Microsoft,12,SK0077
+CERT0468,"Certified Designer, multimedia Professional",LinkedIn Learning,12,SK0035
+CERT0469,Certified Contractor Professional,Internal,999,SK0016
+CERT0470,Certified Science writer Professional,AWS,12,SK0294
+CERT0471,Certified Archaeologist Professional,LinkedIn Learning,24,SK0171
+CERT0472,"Certified Teacher, primary school Professional",Udemy,24,SK0032
+CERT0473,Certified Data processing manager Professional,Internal,24,SK0263
+CERT0474,Certified Banker Professional,Internal,999,SK0215
+CERT0475,Certified Dietitian Professional,Internal,999,SK0046
+CERT0476,Certified Further education lecturer Professional,LinkedIn Learning,12,SK0189
+CERT0477,Certified Education administrator Professional,Udemy,36,SK0274
+CERT0478,"Certified Scientist, forensic Professional",AWS,24,SK0071
+CERT0479,"Certified Optician, dispensing Professional",Microsoft,999,SK0296
+CERT0480,Certified Tour manager Professional,LinkedIn Learning,24,SK0088
+CERT0481,"Certified Surveyor, rural practice Professional",Coursera,12,SK0261
+CERT0482,Certified Advertising account executive Professional,Coursera,999,SK0182
+CERT0483,Certified Herpetologist Professional,LinkedIn Learning,36,SK0022
+CERT0484,Certified Chartered certified accountant Professional,Microsoft,36,SK0074
+CERT0485,"Certified Engineer, technical sales Professional",Coursera,999,SK0090
+CERT0486,"Certified Production assistant, radio Professional",Microsoft,36,SK0166
+CERT0487,Certified Training and development officer Professional,Internal,12,SK0234
+CERT0488,Certified Public affairs consultant Professional,LinkedIn Learning,36,SK0129
+CERT0489,Certified Race relations officer Professional,Internal,24,SK0292
+CERT0490,"Certified Doctor, hospital Professional",Coursera,24,SK0095
+CERT0491,Certified English as a foreign language teacher Professional,Microsoft,24,SK0028
+CERT0492,Certified Paediatric nurse Professional,Internal,999,SK0035
+CERT0493,Certified Tourist information centre manager Professional,Coursera,999,SK0231
+CERT0494,Certified Customer service manager Professional,Google,999,SK0125
+CERT0495,Certified Television floor manager Professional,Udemy,999,SK0079
+CERT0496,"Certified Education officer, environmental Professional",Internal,999,SK0061
+CERT0497,Certified Youth worker Professional,Udemy,12,SK0217
+CERT0498,Certified Sales promotion account executive Professional,Udemy,999,SK0282
+CERT0499,"Certified Geneticist, molecular Professional",AWS,36,SK0163
+CERT0500,Certified Diplomatic Services operational officer Professional,Coursera,12,SK0057

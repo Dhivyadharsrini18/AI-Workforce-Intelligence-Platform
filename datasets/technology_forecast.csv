@@ -1,0 +1,301 @@
+skill_id,skill_name,category,forecast_2027,forecast_2028,forecast_2029,forecast_2030,forecast_2031,forecast_2032,forecast_2033,forecast_2034,forecast_2035,forecast_2036
+SK0001,"Surveyor, Markets",Leadership,80,57,53,100,45,30,100,57,100,52
+SK0002,Estate Vortals,Tools,66,82,100,54,63,100,42,95,46,100
+SK0003,Oncologist E-tailers,Domain Expertise,91,52,34,72,56,37,53,0,5,8
+SK0004,Tax E-tailers,Tools,63,59,62,60,33,57,60,63,100,100
+SK0005,Restaurant Eyeballs,Tools,58,82,75,87,69,100,35,76,100,21
+SK0006,Geochemist Schemas,Soft Skill,90,34,12,86,65,82,100,61,81,0
+SK0007,Solicitor Applications,Domain Expertise,42,63,82,63,36,100,80,100,49,76
+SK0008,Oceanographer Channels,Domain Expertise,100,67,33,63,55,55,70,23,69,89
+SK0009,Sales Markets,Domain Expertise,57,35,88,56,83,44,65,100,100,75
+SK0010,Clinical Methodologies,Tools,49,100,64,87,52,98,100,75,49,100
+SK0011,"Pharmacist, Architectures",Leadership,82,30,51,61,1,25,59,100,24,0
+SK0012,Museum/gallery Deliverables,Domain Expertise,47,94,88,53,32,34,59,100,89,87
+SK0013,Food Methodologies,Tools,100,57,100,19,100,2,52,60,86,100
+SK0014,Colour Experiences,Soft Skill,39,60,74,65,100,68,45,17,89,70
+SK0015,"Librarian, E-commerce",Leadership,45,73,64,100,77,49,35,72,100,18
+SK0016,"Designer, Portals",Soft Skill,37,100,36,84,100,100,42,37,100,9
+SK0017,Restaurant Mindshare,Leadership,44,100,37,77,60,63,80,46,1,64
+SK0018,Claims Functionalities,Tools,100,94,47,23,93,100,34,43,100,100
+SK0019,"Runner, Eyeballs",Technical,83,71,76,77,95,97,100,41,100,100
+SK0020,Midwife Users,Leadership,78,100,100,88,16,76,73,100,100,100
+SK0021,Set Metrics,Soft Skill,44,85,95,100,98,40,100,71,53,100
+SK0022,Jewellery Initiatives,Tools,33,91,92,100,58,100,100,5,100,100
+SK0023,Medical Action-items,Leadership,96,48,100,43,100,55,23,100,41,63
+SK0024,Barrister Infrastructures,Technical,71,85,94,32,6,100,77,100,73,100
+SK0025,"Radiographer, Users",Technical,76,86,87,80,100,81,66,74,22,77
+SK0026,Comptroller Schemas,Domain Expertise,42,76,65,50,32,100,43,62,100,100
+SK0027,Diagnostic E-tailers,Domain Expertise,73,51,78,73,82,82,5,100,100,100
+SK0028,"Solicitor, Content",Soft Skill,28,88,87,100,67,100,100,100,100,99
+SK0029,Oceanographer Systems,Leadership,42,27,15,78,21,69,84,68,54,100
+SK0030,"Scientist, Action-items",Leadership,17,62,33,42,100,15,48,94,99,52
+SK0031,Equality Web-readiness,Domain Expertise,52,84,89,100,69,86,81,89,100,41
+SK0032,Theatre Applications,Leadership,91,54,92,52,62,63,0,5,100,100
+SK0033,English Functionalities,Leadership,79,73,20,70,70,55,100,75,48,100
+SK0034,Barrister's Paradigms,Technical,78,17,58,90,100,50,92,100,100,77
+SK0035,Lawyer Niches,Domain Expertise,56,42,100,91,100,17,30,100,33,100
+SK0036,"Radiographer, Networks",Tools,71,91,81,63,70,75,55,0,100,55
+SK0037,Technical Info-mediaries,Domain Expertise,95,100,36,33,43,49,12,60,35,11
+SK0038,Optometrist Platforms,Tools,87,90,64,59,100,100,100,60,21,68
+SK0039,Plant E-markets,Technical,72,50,98,100,68,84,3,100,43,95
+SK0040,"Psychologist, Methodologies",Soft Skill,62,60,46,85,47,59,22,3,82,100
+SK0041,Chief Supply-chains,Leadership,100,100,52,29,56,79,100,100,100,41
+SK0042,Clinical Solutions,Technical,100,70,72,59,100,40,100,100,0,0
+SK0043,Software E-commerce,Leadership,80,95,59,100,58,100,100,35,26,0
+SK0044,Education Action-items,Soft Skill,62,41,39,27,36,31,100,31,100,100
+SK0045,Call Markets,Soft Skill,68,28,74,100,90,51,69,59,20,73
+SK0046,Sound Infrastructures,Technical,70,90,100,100,31,100,55,100,52,100
+SK0047,Fast Models,Soft Skill,47,41,73,47,100,54,84,46,100,91
+SK0048,Quarry Markets,Tools,66,42,97,44,64,73,100,100,100,68
+SK0049,Development Architectures,Soft Skill,64,86,20,86,65,100,44,100,14,61
+SK0050,Geochemist Technologies,Leadership,58,88,46,100,65,84,100,92,96,4
+SK0051,Pharmacologist Eyeballs,Leadership,98,42,100,65,94,14,30,37,100,33
+SK0052,Energy Markets,Leadership,94,39,53,55,55,70,44,72,96,100
+SK0053,TEFL Vortals,Leadership,54,42,39,100,100,51,48,38,0,99
+SK0054,Barista Mindshare,Tools,49,97,57,58,100,49,39,23,80,92
+SK0055,Set Mindshare,Domain Expertise,42,69,93,53,44,100,46,92,65,100
+SK0056,Catering Partnerships,Technical,72,76,13,76,68,30,100,100,80,90
+SK0057,"Therapist, Interfaces",Leadership,98,99,28,54,61,23,67,100,26,28
+SK0058,Communications Applications,Soft Skill,49,54,58,31,86,90,91,97,100,0
+SK0059,"Therapist, E-markets",Leadership,95,82,81,72,81,57,76,100,72,47
+SK0060,Television Portals,Soft Skill,23,49,62,54,33,100,77,76,98,55
+SK0061,"Engineer, Action-items",Soft Skill,69,72,100,83,33,37,68,59,13,90
+SK0062,Geochemist Services,Leadership,70,74,38,40,100,0,82,47,100,100
+SK0063,Hydrologist Partnerships,Tools,76,63,57,100,87,38,100,100,47,86
+SK0064,Acupuncturist Partnerships,Soft Skill,88,66,32,21,98,79,79,76,23,100
+SK0065,Soil Channels,Soft Skill,37,100,100,48,73,14,100,22,51,93
+SK0066,Magazine Action-items,Leadership,64,73,93,87,46,100,67,65,43,7
+SK0067,Merchant Systems,Soft Skill,90,57,58,100,99,100,95,65,100,56
+SK0068,Speech E-business,Soft Skill,41,39,60,69,40,100,7,100,81,100
+SK0069,Seismic Services,Leadership,79,45,51,94,65,34,90,86,100,0
+SK0070,Civil Portals,Leadership,28,58,52,100,30,79,100,61,43,56
+SK0071,Commercial Schemas,Technical,26,72,67,65,29,23,37,100,76,100
+SK0072,"Designer, Metrics",Tools,48,100,87,40,58,100,100,100,20,24
+SK0073,"Engineer, E-tailers",Tools,47,37,68,64,68,44,87,40,41,0
+SK0074,"Geneticist, Portals",Soft Skill,33,100,31,100,88,89,28,93,100,100
+SK0075,Arts Niches,Tools,70,91,54,100,52,100,0,26,100,100
+SK0076,Armed Channels,Soft Skill,96,66,87,73,68,43,100,60,100,46
+SK0077,Garment/textile Schemas,Technical,45,61,98,93,100,88,100,84,89,100
+SK0078,Physiotherapist Initiatives,Leadership,82,70,53,45,66,54,72,47,100,65
+SK0079,Call Users,Leadership,59,100,40,25,28,50,46,1,23,80
+SK0080,Animal Applications,Leadership,91,81,42,29,33,42,66,100,48,62
+SK0081,Sub Channels,Tools,46,58,25,64,13,51,27,100,100,100
+SK0082,Architectural Paradigms,Technical,16,72,44,70,24,100,70,6,0,35
+SK0083,Materials Services,Tools,71,53,9,39,94,100,90,98,100,62
+SK0084,Civil E-business,Tools,56,79,54,70,34,0,100,100,100,0
+SK0085,"Designer, Communities",Technical,98,82,73,19,68,33,1,67,100,98
+SK0086,"Editor, Web-readiness",Technical,96,93,63,100,100,63,44,5,100,35
+SK0087,Editorial E-markets,Technical,70,87,99,100,21,96,14,35,63,100
+SK0088,Fish Platforms,Technical,19,96,44,97,81,64,62,83,50,52
+SK0089,Museum/gallery Info-mediaries,Leadership,50,42,58,12,55,22,83,35,79,71
+SK0090,Environmental Convergence,Domain Expertise,34,33,43,50,43,87,4,100,59,100
+SK0091,Industrial/product E-services,Domain Expertise,30,31,74,58,64,87,12,26,86,100
+SK0092,Aeronautical Interfaces,Technical,42,74,58,60,77,24,52,100,47,19
+SK0093,Land/geomatics Niches,Domain Expertise,77,86,32,89,69,61,2,100,0,10
+SK0094,Make Methodologies,Domain Expertise,79,94,100,48,97,100,89,64,100,100
+SK0095,Software Initiatives,Technical,23,55,95,79,68,81,100,14,68,12
+SK0096,Games Paradigms,Domain Expertise,63,100,30,47,100,27,81,70,100,100
+SK0097,Clinical Convergence,Tools,38,55,75,33,62,48,78,5,89,70
+SK0098,Interior Architectures,Soft Skill,35,90,100,20,88,100,69,100,0,79
+SK0099,Technical Paradigms,Soft Skill,95,97,100,37,44,87,77,65,100,68
+SK0100,Press Relationships,Technical,39,90,97,60,29,83,17,100,84,1
+SK0101,Plant E-business,Leadership,24,94,79,37,100,32,91,99,100,12
+SK0102,Interior Content,Technical,61,46,81,62,66,85,35,100,100,98
+SK0103,"Runner, Vortals",Leadership,65,23,87,60,72,44,48,34,86,68
+SK0104,Operational Schemas,Soft Skill,41,83,42,92,88,87,91,73,100,70
+SK0105,Conference Services,Technical,63,42,82,100,13,69,100,82,100,100
+SK0106,Museum E-business,Tools,58,76,40,96,2,39,53,86,100,65
+SK0107,"Teacher, Schemas",Domain Expertise,37,60,51,96,16,43,60,35,51,35
+SK0108,Academic E-tailers,Leadership,79,56,93,29,76,33,100,33,100,100
+SK0109,Planning Bandwidth,Domain Expertise,27,100,51,47,92,100,18,63,89,61
+SK0110,Private Mindshare,Domain Expertise,55,60,53,4,60,79,25,85,100,42
+SK0111,Public Services,Technical,58,52,100,66,36,53,82,38,50,80
+SK0112,Chartered Infrastructures,Domain Expertise,97,44,43,57,72,100,38,33,100,90
+SK0113,Farm E-services,Tools,30,66,84,25,75,59,69,74,97,100
+SK0114,"Engineer, Paradigms",Domain Expertise,51,88,47,35,81,100,37,59,100,20
+SK0115,Financial Bandwidth,Technical,100,63,67,55,38,100,63,9,26,38
+SK0116,Patent Architectures,Tools,46,81,39,69,44,74,39,87,75,6
+SK0117,Research Eyeballs,Soft Skill,55,94,82,50,50,60,92,72,100,53
+SK0118,"Accountant, E-commerce",Domain Expertise,78,42,44,28,100,48,77,96,28,78
+SK0119,English Markets,Technical,54,86,46,81,50,69,100,53,87,33
+SK0120,"Surveyor, Bandwidth",Soft Skill,38,30,78,50,100,48,97,100,36,100
+SK0121,Contracting Services,Soft Skill,95,100,100,100,43,97,63,70,100,40
+SK0122,Set Systems,Leadership,34,78,80,58,100,100,87,26,94,48
+SK0123,Video Schemas,Tools,100,84,63,46,53,58,65,0,100,79
+SK0124,Product Info-mediaries,Domain Expertise,52,94,26,56,79,100,100,89,38,37
+SK0125,Production Functionalities,Technical,85,36,85,58,50,99,90,100,100,98
+SK0126,Health Functionalities,Leadership,52,97,44,56,98,15,100,52,88,62
+SK0127,Field Partnerships,Tools,18,65,58,28,97,59,57,92,100,100
+SK0128,Higher Supply-chains,Leadership,17,60,78,66,59,49,44,100,100,100
+SK0129,IT Channels,Tools,76,52,45,8,21,96,0,34,100,17
+SK0130,Dentist Eyeballs,Tools,34,31,81,35,91,35,58,73,36,16
+SK0131,"Engineer, E-markets",Domain Expertise,74,48,45,98,74,100,100,12,50,100
+SK0132,Lawyer E-markets,Tools,36,40,35,85,70,64,93,80,48,36
+SK0133,Biomedical Architectures,Leadership,56,30,44,100,100,4,100,100,32,48
+SK0134,Television/film/video Networks,Tools,18,82,50,77,73,81,70,100,100,60
+SK0135,Museum/gallery Convergence,Domain Expertise,85,87,65,4,100,74,100,100,44,19
+SK0136,Hydrogeologist E-markets,Domain Expertise,56,73,49,20,92,94,58,50,99,59
+SK0137,Solicitor Models,Leadership,90,31,87,39,100,100,71,71,75,91
+SK0138,English Models,Soft Skill,66,53,15,2,49,90,42,52,61,100
+SK0139,Air Services,Soft Skill,54,91,68,28,33,55,85,97,98,41
+SK0140,Ophthalmologist Bandwidth,Tools,19,100,75,100,33,86,55,6,100,95
+SK0141,Conference Interfaces,Technical,75,52,86,61,56,100,18,82,44,100
+SK0142,"Therapist, Infrastructures",Tools,62,63,46,77,19,73,1,100,37,59
+SK0143,Phytotherapist Roi,Leadership,71,83,40,75,71,100,100,24,100,100
+SK0144,Arts Vortals,Leadership,89,80,57,22,79,2,46,76,4,100
+SK0145,"Engineer, Supply-chains",Leadership,69,48,100,54,15,50,29,38,100,33
+SK0146,Museum Portals,Leadership,87,30,33,40,65,32,100,93,78,51
+SK0147,Ceramics Users,Leadership,100,21,99,45,94,61,100,34,22,100
+SK0148,Associate Experiences,Domain Expertise,65,65,47,84,74,69,100,100,37,35
+SK0149,Broadcast Web-readiness,Soft Skill,44,77,55,97,95,100,0,100,100,100
+SK0150,Firefighter E-business,Leadership,30,71,93,94,53,40,97,100,100,57
+SK0151,"Designer, Info-mediaries",Technical,88,63,100,55,96,57,100,63,64,100
+SK0152,Colour Bandwidth,Technical,56,33,36,66,23,30,30,0,48,100
+SK0153,Furniture Communities,Technical,79,84,100,87,41,7,78,0,100,66
+SK0154,Trading Communities,Technical,58,43,90,65,97,29,94,100,26,77
+SK0155,Insurance Content,Domain Expertise,53,41,59,55,100,31,59,51,50,70
+SK0156,Teaching Interfaces,Technical,33,36,23,100,58,68,100,63,100,100
+SK0157,"Engineer, Platforms",Leadership,31,67,42,82,100,36,59,100,52,58
+SK0158,Illustrator Networks,Tools,58,56,26,23,70,54,100,100,100,40
+SK0159,Architectural Services,Technical,81,76,79,57,100,10,74,100,90,70
+SK0160,Metallurgist Synergies,Domain Expertise,71,55,100,89,45,67,20,55,52,59
+SK0161,Petroleum Platforms,Domain Expertise,69,70,90,82,39,100,58,55,100,100
+SK0162,Police Eyeballs,Technical,37,31,66,79,78,100,100,48,84,60
+SK0163,"Presenter, E-business",Tools,63,35,72,93,35,54,100,72,100,41
+SK0164,Solicitor Bandwidth,Technical,68,58,91,91,77,100,62,18,61,52
+SK0165,Press Vortals,Domain Expertise,88,42,41,52,55,52,12,57,55,100
+SK0166,Financial Niches,Soft Skill,52,83,58,84,85,100,64,20,78,100
+SK0167,Production Networks,Leadership,54,56,31,98,45,46,83,65,43,100
+SK0168,Travel Supply-chains,Domain Expertise,84,100,17,100,64,69,100,79,80,81
+SK0169,Air Roi,Technical,100,82,40,94,43,97,42,38,99,100
+SK0170,Ranger/warden Portals,Leadership,54,90,50,47,66,97,100,100,100,34
+SK0171,"Librarian, Schemas",Technical,31,28,81,98,10,31,100,100,100,100
+SK0172,Administrator Infrastructures,Technical,95,67,24,90,98,100,69,28,44,100
+SK0173,Financial Models,Soft Skill,79,64,55,100,68,0,90,83,44,100
+SK0174,"Surveyor, Info-mediaries",Leadership,94,43,100,2,73,76,58,67,31,100
+SK0175,Recycling Infrastructures,Leadership,87,83,42,94,77,84,100,75,50,84
+SK0176,Hospital Action-items,Soft Skill,39,20,54,91,43,68,57,18,58,61
+SK0177,Information Info-mediaries,Domain Expertise,46,18,76,85,100,16,4,100,100,100
+SK0178,Surgeon E-commerce,Technical,55,48,17,73,22,68,100,54,86,0
+SK0179,Statistician Bandwidth,Tools,35,87,44,65,100,62,36,37,100,21
+SK0180,Geoscientist E-services,Technical,79,100,100,55,100,1,50,60,48,100
+SK0181,Community Vortals,Technical,86,27,65,29,25,34,42,100,0,100
+SK0182,Communications Solutions,Domain Expertise,81,44,77,90,42,60,49,95,76,100
+SK0183,"Engineer, Niches",Technical,91,47,55,15,81,74,44,100,76,24
+SK0184,Theme Platforms,Soft Skill,88,84,66,53,30,84,13,76,100,9
+SK0185,"Engineer, Relationships",Soft Skill,85,100,99,83,68,64,100,0,62,100
+SK0186,Editorial Users,Leadership,31,35,71,25,82,93,100,100,39,91
+SK0187,Computer Markets,Tools,36,32,27,33,93,82,77,50,23,100
+SK0188,Surgeon Functionalities,Technical,43,79,62,100,71,71,37,100,100,0
+SK0189,Recycling Networks,Technical,97,77,45,59,82,40,51,100,100,73
+SK0190,Higher Systems,Domain Expertise,58,88,52,24,89,42,31,35,65,95
+SK0191,"Librarian, Portals",Soft Skill,31,21,72,62,34,76,24,98,59,87
+SK0192,Purchasing Interfaces,Tools,48,68,84,60,69,28,100,86,59,100
+SK0193,Regulatory Eyeballs,Leadership,59,58,75,41,84,85,48,28,1,100
+SK0194,Database Infrastructures,Soft Skill,55,81,71,60,14,80,48,80,30,28
+SK0195,Fish Metrics,Leadership,52,19,81,47,90,71,100,100,100,100
+SK0196,"Therapist, Deliverables",Domain Expertise,97,56,54,59,100,90,82,18,48,100
+SK0197,Museum/gallery Content,Domain Expertise,28,49,73,40,57,58,0,100,78,100
+SK0198,Theatre Networks,Technical,35,51,48,59,76,39,37,27,100,68
+SK0199,Web E-tailers,Tools,77,99,38,96,100,34,90,37,89,38
+SK0200,"Engineer, Communities",Leadership,60,100,59,78,62,100,100,56,92,100
+SK0201,Film/video Communities,Soft Skill,33,100,100,77,96,100,52,62,90,100
+SK0202,"Accountant, Metrics",Domain Expertise,39,14,51,60,77,100,100,0,62,100
+SK0203,"Psychotherapist, E-services",Technical,78,66,78,36,100,40,100,46,0,100
+SK0204,Homeopath Bandwidth,Technical,55,77,100,65,1,65,34,100,78,100
+SK0205,Building Portals,Leadership,37,87,94,78,84,100,38,80,100,0
+SK0206,Theme E-commerce,Domain Expertise,36,54,70,46,70,33,29,100,58,59
+SK0207,Colour Experiences,Tools,91,46,100,68,57,23,95,44,84,100
+SK0208,Database Eyeballs,Domain Expertise,69,86,36,100,98,43,18,64,87,1
+SK0209,Building Content,Leadership,51,40,87,36,71,37,33,100,100,100
+SK0210,"Therapist, Systems",Leadership,46,92,83,96,42,22,100,26,47,41
+SK0211,Company Interfaces,Domain Expertise,97,46,51,30,32,14,55,98,100,0
+SK0212,Glass Systems,Leadership,74,55,73,94,64,100,96,76,100,50
+SK0213,Catering E-commerce,Domain Expertise,68,84,52,69,100,99,100,24,13,85
+SK0214,IT Web-readiness,Soft Skill,53,87,44,94,70,39,94,3,100,72
+SK0215,"Chemist, Methodologies",Domain Expertise,51,34,48,46,71,90,100,50,44,99
+SK0216,Geophysical Roi,Domain Expertise,70,27,56,100,33,34,63,51,39,83
+SK0217,"Psychotherapist, Niches",Leadership,93,25,100,78,46,60,100,46,0,68
+SK0218,Education Functionalities,Leadership,46,30,49,85,100,75,83,46,42,74
+SK0219,Regulatory Convergence,Technical,82,22,75,71,72,43,48,14,0,62
+SK0220,Osteopath Services,Technical,67,97,84,100,100,100,56,100,76,93
+SK0221,Civil Supply-chains,Soft Skill,95,82,39,94,57,15,38,83,93,100
+SK0222,Paramedic Technologies,Technical,25,26,81,63,62,68,48,100,27,100
+SK0223,Oncologist Bandwidth,Domain Expertise,100,40,48,52,83,77,35,0,100,28
+SK0224,Chartered Vortals,Leadership,45,39,71,44,55,72,27,74,90,100
+SK0225,Commercial Mindshare,Technical,45,54,30,100,100,53,100,70,71,66
+SK0226,Accommodation E-markets,Technical,35,24,75,57,93,54,100,91,100,7
+SK0227,Audiological E-business,Soft Skill,49,53,72,54,70,45,62,68,23,57
+SK0228,Research Markets,Soft Skill,72,64,92,64,81,0,39,100,100,100
+SK0229,"Engineer, Technologies",Domain Expertise,39,79,71,40,100,100,21,72,74,3
+SK0230,Primary Initiatives,Leadership,66,46,74,68,100,100,100,100,29,100
+SK0231,Air Communities,Soft Skill,86,62,90,96,50,94,21,100,100,79
+SK0232,Insurance Schemas,Technical,83,100,50,82,81,80,100,92,79,74
+SK0233,Orthoptist Initiatives,Leadership,91,78,83,68,78,100,43,100,96,100
+SK0234,"Psychologist, Models",Leadership,70,70,35,82,100,67,57,61,100,100
+SK0235,"Horticulturist, E-markets",Technical,20,41,41,12,49,100,100,88,71,100
+SK0236,Radiation Bandwidth,Soft Skill,46,98,48,87,63,92,100,100,100,63
+SK0237,Structural Solutions,Technical,73,92,48,74,59,64,96,56,100,100
+SK0238,Tour Partnerships,Leadership,39,73,48,72,23,100,93,100,51,100
+SK0239,Health Supply-chains,Tools,53,41,43,40,64,100,66,68,0,44
+SK0240,"Runner, Technologies",Tools,69,32,61,99,12,5,99,100,100,43
+SK0241,Hydrogeologist Eyeballs,Domain Expertise,36,39,70,92,59,51,89,93,79,100
+SK0242,Product Convergence,Technical,67,60,60,63,75,3,61,100,100,100
+SK0243,Learning Bandwidth,Technical,79,29,100,100,65,17,58,32,100,62
+SK0244,IT Action-items,Domain Expertise,21,51,83,83,100,79,76,91,47,27
+SK0245,"Teacher, E-markets",Domain Expertise,86,90,100,99,86,83,76,0,26,68
+SK0246,Armed Architectures,Domain Expertise,77,64,100,85,100,85,100,15,81,100
+SK0247,Nature Models,Leadership,47,33,83,80,93,43,22,100,63,100
+SK0248,Animator Platforms,Technical,59,91,54,33,63,27,58,41,100,100
+SK0249,Printmaker Synergies,Leadership,49,69,52,89,17,100,64,40,75,99
+SK0250,Cytogeneticist Partnerships,Domain Expertise,56,94,28,85,48,51,61,84,69,65
+SK0251,"Psychotherapist, Supply-chains",Technical,81,45,86,100,76,56,78,43,6,100
+SK0252,Youth Experiences,Leadership,58,16,59,100,58,72,100,77,96,100
+SK0253,Catering Methodologies,Leadership,34,71,87,100,88,79,97,47,84,100
+SK0254,Social Functionalities,Domain Expertise,40,64,45,69,67,87,0,41,82,68
+SK0255,Ranger/warden E-business,Technical,54,38,82,48,62,100,60,80,100,4
+SK0256,Broadcast E-services,Domain Expertise,40,43,55,32,76,31,74,100,100,100
+SK0257,Chemical Functionalities,Technical,55,70,100,100,71,62,33,100,58,100
+SK0258,Chiropodist Content,Tools,55,100,82,75,46,100,55,100,100,100
+SK0259,Air Markets,Soft Skill,64,22,71,22,42,82,78,71,70,100
+SK0260,Hospital E-commerce,Soft Skill,100,21,99,36,55,37,72,100,57,19
+SK0261,Dancer Networks,Soft Skill,37,68,68,66,74,100,72,100,100,100
+SK0262,Education Infrastructures,Domain Expertise,29,37,49,70,28,38,46,100,63,86
+SK0263,Travel E-business,Tools,54,72,60,61,63,92,31,13,100,66
+SK0264,Financial E-services,Technical,58,33,41,90,100,41,29,75,75,62
+SK0265,"Psychologist, Bandwidth",Leadership,67,59,80,72,100,100,24,100,74,100
+SK0266,Freight Bandwidth,Technical,82,22,91,65,77,100,94,45,79,98
+SK0267,Holiday Partnerships,Leadership,42,78,86,38,88,10,50,49,61,100
+SK0268,Private Functionalities,Technical,44,62,19,23,70,100,100,100,35,100
+SK0269,Photographer Bandwidth,Tools,27,26,59,87,92,79,72,79,13,98
+SK0270,Immigration Info-mediaries,Leadership,65,61,65,100,67,34,15,22,59,100
+SK0271,Clinical Networks,Domain Expertise,93,96,52,95,100,98,100,0,54,92
+SK0272,Mechanical Technologies,Technical,90,100,100,76,100,100,78,100,78,81
+SK0273,Advertising Niches,Technical,36,42,50,42,60,53,39,0,72,100
+SK0274,Actuary Metrics,Leadership,94,15,52,38,34,30,19,61,100,100
+SK0275,Research E-services,Domain Expertise,46,36,65,20,100,100,78,54,92,100
+SK0276,Training E-services,Domain Expertise,41,60,95,82,100,100,83,34,100,100
+SK0277,Energy Methodologies,Tools,41,44,43,91,81,71,80,72,39,100
+SK0278,"Copywriter, Functionalities",Domain Expertise,25,44,12,75,35,51,77,100,58,20
+SK0279,Archaeologist Paradigms,Domain Expertise,82,100,38,57,64,11,76,100,100,62
+SK0280,TEFL Infrastructures,Domain Expertise,29,92,51,44,100,37,19,67,75,100
+SK0281,Hotel Roi,Soft Skill,91,51,93,35,55,42,21,39,39,44
+SK0282,"Engineer, Deliverables",Tools,46,43,52,100,74,69,100,0,0,100
+SK0283,Retail Communities,Technical,83,43,84,46,40,98,96,67,83,46
+SK0284,Furniture Technologies,Leadership,85,58,83,53,62,100,100,54,100,58
+SK0285,Lexicographer Bandwidth,Technical,50,93,62,12,19,52,95,24,100,100
+SK0286,Call Methodologies,Tools,31,77,25,62,87,70,67,58,30,57
+SK0287,Occupational Infrastructures,Leadership,61,14,100,49,80,10,0,68,96,22
+SK0288,Nutritional Users,Tools,99,28,83,80,59,23,87,6,17,100
+SK0289,Community Methodologies,Domain Expertise,34,38,86,78,77,100,78,28,69,99
+SK0290,Garment/textile Functionalities,Leadership,36,23,71,54,20,100,100,38,19,76
+SK0291,Meteorologist Info-mediaries,Domain Expertise,86,81,26,100,99,100,59,44,33,100
+SK0292,Agricultural E-business,Technical,67,37,75,44,56,97,60,100,0,38
+SK0293,Environmental Functionalities,Technical,95,74,63,79,100,70,100,10,60,88
+SK0294,"Psychologist, Experiences",Leadership,52,83,35,65,42,10,85,83,64,99
+SK0295,Osteopath Paradigms,Leadership,95,92,74,64,13,100,83,75,58,25
+SK0296,Applications Initiatives,Tools,79,67,100,96,79,34,88,55,4,3
+SK0297,Chief Architectures,Tools,41,78,77,41,100,100,39,86,81,100
+SK0298,Professor Applications,Domain Expertise,19,34,41,78,47,85,100,100,30,69
+SK0299,"Designer, Experiences",Leadership,69,53,49,1,70,78,100,81,89,100
+SK0300,Child E-business,Technical,32,14,55,75,16,47,54,40,81,100

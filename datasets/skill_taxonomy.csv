@@ -1,0 +1,301 @@
+skill_id,category,subcategory
+SK0001,Leadership,Involve
+SK0002,Tools,Wrong
+SK0003,Domain Expertise,Far
+SK0004,Tools,Alone
+SK0005,Tools,Road
+SK0006,Soft Skill,Hospital
+SK0007,Domain Expertise,Director
+SK0008,Domain Expertise,Life
+SK0009,Domain Expertise,Light
+SK0010,Tools,Eat
+SK0011,Leadership,Top
+SK0012,Domain Expertise,Him
+SK0013,Tools,Bit
+SK0014,Soft Skill,Rich
+SK0015,Leadership,Hold
+SK0016,Soft Skill,Off
+SK0017,Leadership,Week
+SK0018,Tools,Quite
+SK0019,Technical,Her
+SK0020,Leadership,Ask
+SK0021,Soft Skill,Information
+SK0022,Tools,Fact
+SK0023,Leadership,Customer
+SK0024,Technical,Can
+SK0025,Technical,Thus
+SK0026,Domain Expertise,Than
+SK0027,Domain Expertise,Look
+SK0028,Soft Skill,Benefit
+SK0029,Leadership,Recognize
+SK0030,Leadership,Difference
+SK0031,Domain Expertise,Quality
+SK0032,Leadership,Purpose
+SK0033,Leadership,Picture
+SK0034,Technical,Against
+SK0035,Domain Expertise,Apply
+SK0036,Tools,Stop
+SK0037,Domain Expertise,Goal
+SK0038,Tools,Either
+SK0039,Technical,Car
+SK0040,Soft Skill,Stop
+SK0041,Leadership,Other
+SK0042,Technical,Describe
+SK0043,Leadership,Authority
+SK0044,Soft Skill,Themselves
+SK0045,Soft Skill,Southern
+SK0046,Technical,Once
+SK0047,Soft Skill,Despite
+SK0048,Tools,Peace
+SK0049,Soft Skill,Direction
+SK0050,Leadership,Tax
+SK0051,Leadership,True
+SK0052,Leadership,Early
+SK0053,Leadership,Get
+SK0054,Tools,Staff
+SK0055,Domain Expertise,Choose
+SK0056,Technical,Story
+SK0057,Leadership,Wear
+SK0058,Soft Skill,Pick
+SK0059,Leadership,Able
+SK0060,Soft Skill,Factor
+SK0061,Soft Skill,Town
+SK0062,Leadership,Check
+SK0063,Tools,Case
+SK0064,Soft Skill,Now
+SK0065,Soft Skill,Enough
+SK0066,Leadership,Success
+SK0067,Soft Skill,Contain
+SK0068,Soft Skill,Break
+SK0069,Leadership,Recent
+SK0070,Leadership,Trial
+SK0071,Technical,Agree
+SK0072,Tools,Catch
+SK0073,Tools,Administration
+SK0074,Soft Skill,Help
+SK0075,Tools,Strategy
+SK0076,Soft Skill,Story
+SK0077,Technical,Economy
+SK0078,Leadership,Per
+SK0079,Leadership,Game
+SK0080,Leadership,Admit
+SK0081,Tools,Contain
+SK0082,Technical,Evidence
+SK0083,Tools,Area
+SK0084,Tools,Card
+SK0085,Technical,Site
+SK0086,Technical,Know
+SK0087,Technical,Never
+SK0088,Technical,Build
+SK0089,Leadership,Skill
+SK0090,Domain Expertise,Attack
+SK0091,Domain Expertise,Maybe
+SK0092,Technical,List
+SK0093,Domain Expertise,Star
+SK0094,Domain Expertise,High
+SK0095,Technical,Must
+SK0096,Domain Expertise,Personal
+SK0097,Tools,Boy
+SK0098,Soft Skill,Live
+SK0099,Soft Skill,Most
+SK0100,Technical,Do
+SK0101,Leadership,Young
+SK0102,Technical,Possible
+SK0103,Leadership,Animal
+SK0104,Soft Skill,Short
+SK0105,Technical,Step
+SK0106,Tools,When
+SK0107,Domain Expertise,Trial
+SK0108,Leadership,Reason
+SK0109,Domain Expertise,Near
+SK0110,Domain Expertise,Fish
+SK0111,Technical,Low
+SK0112,Domain Expertise,Question
+SK0113,Tools,Allow
+SK0114,Domain Expertise,Ask
+SK0115,Technical,Measure
+SK0116,Tools,Throw
+SK0117,Soft Skill,Interest
+SK0118,Domain Expertise,Last
+SK0119,Technical,Rich
+SK0120,Soft Skill,Box
+SK0121,Soft Skill,Military
+SK0122,Leadership,Seem
+SK0123,Tools,Where
+SK0124,Domain Expertise,Life
+SK0125,Technical,Back
+SK0126,Leadership,Way
+SK0127,Tools,Be
+SK0128,Leadership,Fund
+SK0129,Tools,Political
+SK0130,Tools,Choose
+SK0131,Domain Expertise,Attorney
+SK0132,Tools,Card
+SK0133,Leadership,Face
+SK0134,Tools,Probably
+SK0135,Domain Expertise,Property
+SK0136,Domain Expertise,Pay
+SK0137,Leadership,Official
+SK0138,Soft Skill,Seem
+SK0139,Soft Skill,Garden
+SK0140,Tools,I
+SK0141,Technical,Picture
+SK0142,Tools,Nice
+SK0143,Leadership,Financial
+SK0144,Leadership,Long
+SK0145,Leadership,Mouth
+SK0146,Leadership,Point
+SK0147,Leadership,Law
+SK0148,Domain Expertise,Bit
+SK0149,Soft Skill,Student
+SK0150,Leadership,Science
+SK0151,Technical,Building
+SK0152,Technical,Tonight
+SK0153,Technical,Real
+SK0154,Technical,Rather
+SK0155,Domain Expertise,Understand
+SK0156,Technical,Specific
+SK0157,Leadership,Ok
+SK0158,Tools,Set
+SK0159,Technical,Tree
+SK0160,Domain Expertise,Dinner
+SK0161,Domain Expertise,Law
+SK0162,Technical,Live
+SK0163,Tools,View
+SK0164,Technical,Drive
+SK0165,Domain Expertise,Job
+SK0166,Soft Skill,Group
+SK0167,Leadership,Their
+SK0168,Domain Expertise,Long
+SK0169,Technical,Inside
+SK0170,Leadership,Just
+SK0171,Technical,Show
+SK0172,Technical,Beyond
+SK0173,Soft Skill,Form
+SK0174,Leadership,Late
+SK0175,Leadership,Form
+SK0176,Soft Skill,Reduce
+SK0177,Domain Expertise,Especially
+SK0178,Technical,House
+SK0179,Tools,Claim
+SK0180,Technical,Right
+SK0181,Technical,Wind
+SK0182,Domain Expertise,Matter
+SK0183,Technical,Audience
+SK0184,Soft Skill,Benefit
+SK0185,Soft Skill,Theory
+SK0186,Leadership,Bed
+SK0187,Tools,Better
+SK0188,Technical,Lay
+SK0189,Technical,Big
+SK0190,Domain Expertise,Size
+SK0191,Soft Skill,Single
+SK0192,Tools,Hotel
+SK0193,Leadership,Task
+SK0194,Soft Skill,Case
+SK0195,Leadership,Only
+SK0196,Domain Expertise,As
+SK0197,Domain Expertise,Peace
+SK0198,Technical,Or
+SK0199,Tools,Or
+SK0200,Leadership,Girl
+SK0201,Soft Skill,Religious
+SK0202,Domain Expertise,Can
+SK0203,Technical,Item
+SK0204,Technical,Health
+SK0205,Leadership,Tv
+SK0206,Domain Expertise,Reduce
+SK0207,Tools,Yeah
+SK0208,Domain Expertise,Social
+SK0209,Leadership,Land
+SK0210,Leadership,Trip
+SK0211,Domain Expertise,Whole
+SK0212,Leadership,Set
+SK0213,Domain Expertise,Approach
+SK0214,Soft Skill,Field
+SK0215,Domain Expertise,Plan
+SK0216,Domain Expertise,Forget
+SK0217,Leadership,He
+SK0218,Leadership,Body
+SK0219,Technical,Participant
+SK0220,Technical,Movement
+SK0221,Soft Skill,Difference
+SK0222,Technical,Clear
+SK0223,Domain Expertise,Realize
+SK0224,Leadership,Meet
+SK0225,Technical,Door
+SK0226,Technical,Throw
+SK0227,Soft Skill,Box
+SK0228,Soft Skill,Hard
+SK0229,Domain Expertise,Through
+SK0230,Leadership,Only
+SK0231,Soft Skill,Hold
+SK0232,Technical,Building
+SK0233,Leadership,Sound
+SK0234,Leadership,Family
+SK0235,Technical,Painting
+SK0236,Soft Skill,Draw
+SK0237,Technical,Surface
+SK0238,Leadership,Laugh
+SK0239,Tools,Through
+SK0240,Tools,Option
+SK0241,Domain Expertise,Speak
+SK0242,Technical,Tell
+SK0243,Technical,Pretty
+SK0244,Domain Expertise,Positive
+SK0245,Domain Expertise,Republican
+SK0246,Domain Expertise,Question
+SK0247,Leadership,Onto
+SK0248,Technical,Agree
+SK0249,Leadership,Politics
+SK0250,Domain Expertise,Woman
+SK0251,Technical,Really
+SK0252,Leadership,Themselves
+SK0253,Leadership,Rule
+SK0254,Domain Expertise,Example
+SK0255,Technical,Air
+SK0256,Domain Expertise,Couple
+SK0257,Technical,Explain
+SK0258,Tools,Scientist
+SK0259,Soft Skill,Sound
+SK0260,Soft Skill,For
+SK0261,Soft Skill,Will
+SK0262,Domain Expertise,Group
+SK0263,Tools,Have
+SK0264,Technical,According
+SK0265,Leadership,Course
+SK0266,Technical,True
+SK0267,Leadership,Character
+SK0268,Technical,Others
+SK0269,Tools,Really
+SK0270,Leadership,Institution
+SK0271,Domain Expertise,Available
+SK0272,Technical,Change
+SK0273,Technical,Sit
+SK0274,Leadership,Property
+SK0275,Domain Expertise,Allow
+SK0276,Domain Expertise,Benefit
+SK0277,Tools,Skin
+SK0278,Domain Expertise,Nice
+SK0279,Domain Expertise,Dinner
+SK0280,Domain Expertise,However
+SK0281,Soft Skill,Kind
+SK0282,Tools,Long
+SK0283,Technical,Growth
+SK0284,Leadership,Coach
+SK0285,Technical,Hope
+SK0286,Tools,Forget
+SK0287,Leadership,Set
+SK0288,Tools,Garden
+SK0289,Domain Expertise,Standard
+SK0290,Leadership,Year
+SK0291,Domain Expertise,Out
+SK0292,Technical,Pick
+SK0293,Technical,Become
+SK0294,Leadership,Use
+SK0295,Leadership,Area
+SK0296,Tools,Clearly
+SK0297,Tools,Coach
+SK0298,Domain Expertise,Somebody
+SK0299,Leadership,Prepare
+SK0300,Technical,Appear

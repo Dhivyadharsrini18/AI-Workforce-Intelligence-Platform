@@ -1,0 +1,21 @@
+department_id,department_name,head,annual_budget,year
+D001,Engineering,Allison Hill,2645234.56,2026
+D002,Data Science,Noah Rhodes,22347010.48,2026
+D003,Product Management,Angie Henderson,2226188.11,2026
+D004,Design,Daniel Wagner,44330601.75,2026
+D005,Marketing,Cristian Santos,39309050.4,2026
+D006,Sales,Connie Lawrence,33177509.21,2026
+D007,Human Resources,Abigail Shaffer,35846688.1,2026
+D008,Finance,Gina Moore,1112875.92,2026
+D009,Legal,Gabrielle Davis,28813108.74,2026
+D010,Customer Support,Ryan Munoz,47276189.55,2026
+D011,Operations,Monica Herrera,3266410.05,2026
+D012,Information Technology,Jamie Arnold,43034152.62,2026
+D013,Research & Development,Lisa Hensley,47739241.97,2026
+D014,Quality Assurance,Michele Williams,33851093.31,2026
+D015,Security,Dylan Miller,6923174.56,2026
+D016,DevOps,Brian Ramirez,17396342.62,2026
+D017,Cloud Infrastructure,Holly Wood,6493814.87,2026
+D018,Business Intelligence,Derek Zuniga,33642828.08,2026
+D019,Supply Chain,Lisa Jackson,18223995.08,2026
+D020,Corporate Strategy,Carla Gray,36725710.23,2026

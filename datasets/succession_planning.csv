@@ -1,0 +1,301 @@
+target_role,department_id,successor_id,readiness_timeframe
+Special educational needs teacher,D001,EMP06022,3-5 Years
+"Programmer, applications",D003,EMP03126,Ready Now
+Translator,D007,EMP06783,1-2 Years
+Newspaper journalist,D003,EMP05388,Ready Now
+"Therapist, music",D017,EMP05114,1-2 Years
+Oceanographer,D001,EMP07182,Ready Now
+Corporate treasurer,D013,EMP02506,3-5 Years
+Housing manager/officer,D020,EMP09443,3-5 Years
+"Engineer, broadcasting (operations)",D019,EMP00691,Ready Now
+"Engineer, automotive",D012,EMP02031,Ready Now
+"Designer, exhibition/display",D017,EMP04933,3-5 Years
+"Surveyor, mining",D017,EMP06851,1-2 Years
+"Solicitor, Scotland",D008,EMP00913,3-5 Years
+"Engineer, broadcasting (operations)",D016,EMP07031,1-2 Years
+Ecologist,D011,EMP06761,Ready Now
+Systems developer,D015,EMP00365,3-5 Years
+"Surveyor, minerals",D003,EMP02804,1-2 Years
+Dramatherapist,D016,EMP08270,3-5 Years
+"Social research officer, government",D010,EMP06275,3-5 Years
+"Loss adjuster, chartered",D005,EMP07091,1-2 Years
+Diagnostic radiographer,D014,EMP00982,3-5 Years
+Licensed conveyancer,D011,EMP02758,3-5 Years
+Agricultural consultant,D003,EMP02893,Ready Now
+Chemical engineer,D002,EMP03634,Ready Now
+Herbalist,D020,EMP00330,Ready Now
+Risk analyst,D014,EMP01456,Ready Now
+Archivist,D007,EMP02611,1-2 Years
+Event organiser,D014,EMP01559,Ready Now
+Academic librarian,D017,EMP09743,1-2 Years
+Land,D014,EMP08611,1-2 Years
+Best boy,D009,EMP04540,Ready Now
+Geochemist,D004,EMP03491,1-2 Years
+Personnel officer,D017,EMP08284,1-2 Years
+"Designer, television/film set",D005,EMP03619,Ready Now
+Food technologist,D009,EMP01471,Ready Now
+Contracting civil engineer,D001,EMP06689,1-2 Years
+Mental health nurse,D004,EMP08916,3-5 Years
+Biomedical scientist,D009,EMP01988,3-5 Years
+Architectural technologist,D018,EMP05309,1-2 Years
+Proofreader,D008,EMP05438,1-2 Years
+"Engineer, control and instrumentation",D015,EMP06279,1-2 Years
+Charity officer,D005,EMP07133,Ready Now
+Sports development officer,D007,EMP00763,1-2 Years
+Advertising copywriter,D003,EMP00017,3-5 Years
+Higher education lecturer,D002,EMP01380,Ready Now
+Educational psychologist,D002,EMP06669,1-2 Years
+Geographical information systems officer,D019,EMP03238,Ready Now
+Exhibition designer,D001,EMP00370,1-2 Years
+IT trainer,D005,EMP05039,1-2 Years
+Intelligence analyst,D002,EMP00189,3-5 Years
+"Lecturer, higher education",D003,EMP09173,3-5 Years
+Land/geomatics surveyor,D004,EMP02233,1-2 Years
+Corporate investment banker,D019,EMP02357,3-5 Years
+Sub,D020,EMP00546,3-5 Years
+"Administrator, education",D013,EMP06980,1-2 Years
+Economist,D016,EMP06405,3-5 Years
+"Librarian, academic",D009,EMP08315,3-5 Years
+Solicitor,D014,EMP04455,Ready Now
+Health and safety adviser,D007,EMP06766,1-2 Years
+Pathologist,D014,EMP03416,3-5 Years
+Broadcast presenter,D006,EMP03997,1-2 Years
+Information officer,D002,EMP06414,3-5 Years
+Architectural technologist,D006,EMP00689,1-2 Years
+Call centre manager,D013,EMP09805,Ready Now
+Phytotherapist,D005,EMP06611,3-5 Years
+Trade union research officer,D005,EMP05699,1-2 Years
+Database administrator,D017,EMP08232,Ready Now
+Warden/ranger,D017,EMP06746,1-2 Years
+"Production designer, theatre/television/film",D006,EMP02881,1-2 Years
+Immunologist,D013,EMP01388,3-5 Years
+Race relations officer,D020,EMP07459,1-2 Years
+Local government officer,D016,EMP09650,Ready Now
+Chartered management accountant,D020,EMP07913,1-2 Years
+"Nurse, learning disability",D016,EMP04446,3-5 Years
+Television floor manager,D010,EMP03190,3-5 Years
+Fine artist,D003,EMP04773,3-5 Years
+Building surveyor,D003,EMP08997,3-5 Years
+Chief Financial Officer,D002,EMP09046,Ready Now
+Furniture conservator/restorer,D003,EMP01783,3-5 Years
+Musician,D017,EMP06894,3-5 Years
+Dance movement psychotherapist,D015,EMP02195,1-2 Years
+Ophthalmologist,D015,EMP03018,3-5 Years
+Investment analyst,D017,EMP03446,1-2 Years
+"Engineer, drilling",D019,EMP06959,3-5 Years
+"Engineer, technical sales",D020,EMP08284,3-5 Years
+Outdoor activities/education manager,D002,EMP08456,3-5 Years
+Radio producer,D011,EMP01502,1-2 Years
+Licensed conveyancer,D007,EMP07772,1-2 Years
+Health promotion specialist,D008,EMP03807,1-2 Years
+Water engineer,D012,EMP01091,Ready Now
+Prison officer,D015,EMP02805,3-5 Years
+Sub,D020,EMP08406,3-5 Years
+Wellsite geologist,D016,EMP07333,3-5 Years
+Education administrator,D016,EMP06424,Ready Now
+Data processing manager,D005,EMP02871,Ready Now
+Drilling engineer,D007,EMP05415,1-2 Years
+Chief of Staff,D006,EMP02455,3-5 Years
+"Sales professional, IT",D010,EMP03466,Ready Now
+Dentist,D001,EMP09658,3-5 Years
+Retail buyer,D006,EMP02225,1-2 Years
+Travel agency manager,D010,EMP01876,Ready Now
+Rural practice surveyor,D003,EMP05366,Ready Now
+Aeronautical engineer,D004,EMP00525,1-2 Years
+Hotel manager,D009,EMP08841,3-5 Years
+Fine artist,D001,EMP04145,1-2 Years
+Insurance broker,D005,EMP01051,1-2 Years
+Armed forces operational officer,D001,EMP09066,Ready Now
+Oceanographer,D006,EMP04038,Ready Now
+"Lecturer, higher education",D018,EMP06512,3-5 Years
+Associate Professor,D011,EMP00426,3-5 Years
+Medical technical officer,D020,EMP07980,Ready Now
+"Administrator, local government",D009,EMP07626,1-2 Years
+Financial planner,D005,EMP00927,1-2 Years
+Landscape architect,D014,EMP01184,1-2 Years
+Medical illustrator,D016,EMP06539,3-5 Years
+Special effects artist,D008,EMP07738,3-5 Years
+TEFL teacher,D014,EMP07787,3-5 Years
+Learning disability nurse,D002,EMP09436,1-2 Years
+"Engineer, mining",D015,EMP00160,3-5 Years
+Publishing rights manager,D013,EMP09004,3-5 Years
+"Horticulturist, amenity",D013,EMP09811,3-5 Years
+Contractor,D012,EMP05484,Ready Now
+Environmental manager,D006,EMP07880,Ready Now
+Database administrator,D014,EMP07152,1-2 Years
+Radio producer,D011,EMP08449,3-5 Years
+Banker,D009,EMP05953,3-5 Years
+Event organiser,D003,EMP05187,Ready Now
+Theatre stage manager,D009,EMP07661,1-2 Years
+Lexicographer,D004,EMP07847,Ready Now
+Colour technologist,D016,EMP02806,Ready Now
+"Surveyor, insurance",D002,EMP09082,1-2 Years
+"Therapist, speech and language",D019,EMP07712,3-5 Years
+Public relations officer,D009,EMP05109,1-2 Years
+Race relations officer,D020,EMP09665,Ready Now
+Animal technologist,D005,EMP05518,Ready Now
+"Psychologist, sport and exercise",D019,EMP06057,3-5 Years
+Systems analyst,D015,EMP09098,Ready Now
+Investment analyst,D008,EMP04754,1-2 Years
+Special effects artist,D020,EMP08657,3-5 Years
+Health service manager,D007,EMP06746,Ready Now
+Exhibition designer,D005,EMP02267,3-5 Years
+Chartered certified accountant,D018,EMP01938,3-5 Years
+"Scientist, research (physical sciences)",D014,EMP01844,1-2 Years
+Fitness centre manager,D018,EMP07729,3-5 Years
+Armed forces training and education officer,D010,EMP07059,3-5 Years
+Computer games developer,D002,EMP05880,3-5 Years
+"Lighting technician, broadcasting/film/video",D001,EMP06168,3-5 Years
+Exhibition designer,D003,EMP03061,3-5 Years
+"Education officer, environmental",D017,EMP03555,1-2 Years
+Regulatory affairs officer,D002,EMP04454,Ready Now
+Cartographer,D008,EMP07032,3-5 Years
+Forest/woodland manager,D012,EMP01753,3-5 Years
+Dance movement psychotherapist,D005,EMP03818,3-5 Years
+Community arts worker,D012,EMP03016,1-2 Years
+"Therapist, music",D002,EMP09655,Ready Now
+Video editor,D013,EMP07375,3-5 Years
+Logistics and distribution manager,D016,EMP05562,Ready Now
+"Conservator, furniture",D018,EMP06300,3-5 Years
+"Engineer, technical sales",D005,EMP02917,Ready Now
+"Nurse, adult",D013,EMP01187,Ready Now
+Museum/gallery conservator,D009,EMP00271,Ready Now
+Museum education officer,D015,EMP01213,Ready Now
+Radiation protection practitioner,D007,EMP01052,3-5 Years
+"Engineer, water",D004,EMP02373,1-2 Years
+"Programme researcher, broadcasting/film/video",D016,EMP02112,1-2 Years
+"Engineer, materials",D006,EMP03250,Ready Now
+Volunteer coordinator,D013,EMP00565,Ready Now
+"Designer, ceramics/pottery",D013,EMP09630,3-5 Years
+Contracting civil engineer,D014,EMP09698,1-2 Years
+Occupational therapist,D018,EMP08665,3-5 Years
+Retail manager,D020,EMP06641,Ready Now
+Government social research officer,D018,EMP06416,3-5 Years
+"Production assistant, television",D004,EMP03166,3-5 Years
+Public affairs consultant,D001,EMP05029,Ready Now
+"Engineer, energy",D001,EMP04465,3-5 Years
+Astronomer,D006,EMP03613,Ready Now
+"Engineer, technical sales",D019,EMP02643,3-5 Years
+Records manager,D009,EMP09359,1-2 Years
+Audiological scientist,D001,EMP09447,3-5 Years
+"Education officer, museum",D011,EMP04213,3-5 Years
+Community pharmacist,D006,EMP03282,Ready Now
+"Lighting technician, broadcasting/film/video",D004,EMP02499,Ready Now
+Manufacturing systems engineer,D011,EMP01999,1-2 Years
+Dramatherapist,D011,EMP03400,Ready Now
+Patent attorney,D014,EMP05481,3-5 Years
+"Journalist, magazine",D008,EMP02144,1-2 Years
+"Scientist, forensic",D020,EMP09711,1-2 Years
+Insurance claims handler,D017,EMP06291,3-5 Years
+Lexicographer,D019,EMP00212,3-5 Years
+Broadcast engineer,D001,EMP04187,3-5 Years
+Dealer,D010,EMP03057,1-2 Years
+Holiday representative,D015,EMP05960,1-2 Years
+Health and safety inspector,D017,EMP00335,3-5 Years
+Production engineer,D006,EMP01284,Ready Now
+Glass blower/designer,D001,EMP03547,Ready Now
+Event organiser,D017,EMP08342,3-5 Years
+Patent examiner,D005,EMP03470,1-2 Years
+"Surveyor, quantity",D015,EMP04715,1-2 Years
+Make,D011,EMP08575,3-5 Years
+Building control surveyor,D010,EMP01298,3-5 Years
+"Engineer, biomedical",D011,EMP08120,3-5 Years
+Chartered public finance accountant,D014,EMP08874,1-2 Years
+"Psychologist, sport and exercise",D009,EMP04698,1-2 Years
+Health visitor,D018,EMP03335,Ready Now
+"Scientist, audiological",D013,EMP09779,3-5 Years
+"Education officer, community",D001,EMP02106,1-2 Years
+Futures trader,D002,EMP05987,Ready Now
+Newspaper journalist,D001,EMP03307,3-5 Years
+Teaching laboratory technician,D009,EMP02469,1-2 Years
+"Administrator, sports",D017,EMP01668,1-2 Years
+Health service manager,D006,EMP07762,Ready Now
+Trading standards officer,D001,EMP03394,1-2 Years
+Office manager,D008,EMP02531,1-2 Years
+Trading standards officer,D012,EMP03054,1-2 Years
+Administrator,D001,EMP00458,1-2 Years
+Comptroller,D014,EMP01990,3-5 Years
+"Scientist, research (physical sciences)",D015,EMP01720,Ready Now
+Community development worker,D017,EMP07471,3-5 Years
+"Engineer, land",D009,EMP06195,1-2 Years
+Games developer,D012,EMP01116,3-5 Years
+"Psychologist, counselling",D020,EMP05266,Ready Now
+"Scientist, research (maths)",D015,EMP08834,1-2 Years
+"Engineer, water",D018,EMP04656,Ready Now
+Dancer,D004,EMP08812,Ready Now
+Network engineer,D020,EMP06412,1-2 Years
+"Surveyor, building",D008,EMP06496,1-2 Years
+Textile designer,D003,EMP09661,1-2 Years
+Medical technical officer,D003,EMP07327,1-2 Years
+"Designer, graphic",D005,EMP07184,1-2 Years
+"Editor, film/video",D017,EMP00966,Ready Now
+Animal nutritionist,D003,EMP08516,1-2 Years
+Art therapist,D014,EMP04353,Ready Now
+Tree surgeon,D002,EMP06813,3-5 Years
+Research scientist (maths),D018,EMP07447,3-5 Years
+Podiatrist,D006,EMP02595,Ready Now
+"Engineer, maintenance",D016,EMP08525,1-2 Years
+Set designer,D003,EMP06628,Ready Now
+Emergency planning/management officer,D007,EMP06970,1-2 Years
+Marketing executive,D007,EMP01477,3-5 Years
+"Designer, multimedia",D006,EMP02217,3-5 Years
+Armed forces operational officer,D020,EMP05166,Ready Now
+"Physicist, medical",D018,EMP01219,3-5 Years
+TEFL teacher,D016,EMP07158,Ready Now
+Gaffer,D007,EMP02044,Ready Now
+Energy manager,D015,EMP06045,1-2 Years
+Textile designer,D008,EMP03655,1-2 Years
+"Scientist, research (maths)",D004,EMP00387,Ready Now
+Trade union research officer,D019,EMP08705,3-5 Years
+"Pharmacist, community",D003,EMP06351,1-2 Years
+Hospital doctor,D020,EMP09493,Ready Now
+Public relations officer,D016,EMP07829,Ready Now
+Broadcast presenter,D007,EMP03715,1-2 Years
+Town planner,D001,EMP03777,3-5 Years
+Product designer,D012,EMP05750,3-5 Years
+Ophthalmologist,D002,EMP06888,Ready Now
+Illustrator,D020,EMP05130,3-5 Years
+Forensic scientist,D018,EMP09528,Ready Now
+"Scientist, research (medical)",D013,EMP00195,1-2 Years
+Product/process development scientist,D005,EMP02370,3-5 Years
+Forensic scientist,D011,EMP03848,1-2 Years
+Manufacturing systems engineer,D019,EMP08495,3-5 Years
+"Loss adjuster, chartered",D014,EMP02520,Ready Now
+Manufacturing engineer,D007,EMP00792,1-2 Years
+"Teacher, early years/pre",D006,EMP01716,1-2 Years
+"Conservation officer, historic buildings",D011,EMP05372,3-5 Years
+Barrister's clerk,D004,EMP02986,3-5 Years
+Mudlogger,D017,EMP05671,Ready Now
+"Biochemist, clinical",D016,EMP00272,1-2 Years
+"Therapist, speech and language",D002,EMP08341,1-2 Years
+Barista,D003,EMP06997,1-2 Years
+Therapeutic radiographer,D008,EMP08910,1-2 Years
+IT technical support officer,D004,EMP05692,Ready Now
+Curator,D010,EMP00541,1-2 Years
+"Social research officer, government",D004,EMP05558,1-2 Years
+TEFL teacher,D009,EMP03036,Ready Now
+Chief Operating Officer,D010,EMP07189,1-2 Years
+Forest/woodland manager,D010,EMP05905,1-2 Years
+Radiation protection practitioner,D013,EMP01953,3-5 Years
+Hotel manager,D013,EMP07522,1-2 Years
+"Surveyor, building",D018,EMP01372,Ready Now
+Phytotherapist,D011,EMP07147,Ready Now
+Magazine journalist,D013,EMP08237,3-5 Years
+Herbalist,D011,EMP04029,Ready Now
+Social researcher,D013,EMP07527,3-5 Years
+Logistics and distribution manager,D020,EMP02322,1-2 Years
+Architect,D008,EMP07037,Ready Now
+Counselling psychologist,D013,EMP04503,1-2 Years
+Holiday representative,D013,EMP09783,3-5 Years
+Glass blower/designer,D020,EMP03876,3-5 Years
+Financial trader,D008,EMP00084,1-2 Years
+Accommodation manager,D007,EMP01161,3-5 Years
+Financial adviser,D007,EMP07778,Ready Now
+"Conservation officer, historic buildings",D011,EMP06000,3-5 Years
+Public librarian,D002,EMP00831,Ready Now
+Ranger/warden,D012,EMP07444,3-5 Years
+Academic librarian,D019,EMP00210,Ready Now
+Health promotion specialist,D004,EMP02287,1-2 Years
+Print production planner,D004,EMP08633,Ready Now
+"Psychologist, counselling",D011,EMP03659,Ready Now
+"Editor, film/video",D011,EMP05937,1-2 Years

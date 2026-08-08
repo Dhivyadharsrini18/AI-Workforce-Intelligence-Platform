@@ -1,0 +1,21 @@
+department_id,department_name,head
+D001,Engineering,Allison Hill
+D002,Data Science,Noah Rhodes
+D003,Product Management,Angie Henderson
+D004,Design,Daniel Wagner
+D005,Marketing,Cristian Santos
+D006,Sales,Connie Lawrence
+D007,Human Resources,Abigail Shaffer
+D008,Finance,Gina Moore
+D009,Legal,Gabrielle Davis
+D010,Customer Support,Ryan Munoz
+D011,Operations,Monica Herrera
+D012,Information Technology,Jamie Arnold
+D013,Research & Development,Lisa Hensley
+D014,Quality Assurance,Michele Williams
+D015,Security,Dylan Miller
+D016,DevOps,Brian Ramirez
+D017,Cloud Infrastructure,Holly Wood
+D018,Business Intelligence,Derek Zuniga
+D019,Supply Chain,Lisa Jackson
+D020,Corporate Strategy,Carla Gray
